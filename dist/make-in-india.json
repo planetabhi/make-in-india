@@ -1,0 +1,57 @@
+[
+  {
+    "title": "",
+    "url": "",
+    "slug": ""
+  },
+  {
+    "title": "Cabinet Secretariat",
+    "url": "https://cabsec.gov.in/",
+    "slug": "cabinet-secretariat"
+  },
+  {
+    "title": "Comptroller and Auditor General (CAG) of India",
+    "url": "https://cag.gov.in/",
+    "slug": "comptroller-and-auditor-general-of-india"
+  },
+  {
+    "title": "Election Commission of India",
+    "url": "https://eci.gov.in/",
+    "slug": "election-commission-of-india"
+  },
+  {
+    "title": "National Human Rights Commission (NHRC), India",
+    "url": "https://nhrc.nic.in/",
+    "slug": "national-human-rights-commission"
+  },
+  {
+    "title": "NITI Aayog - National Institution for Transforming India",
+    "url": "https://niti.gov.in/",
+    "slug": "niti-aayog"
+  },
+  {
+    "title": "Office of the Principal Scientific Adviser",
+    "url": "https://www.psa.gov.in/",
+    "slug": "office-of-principal-scientific-adviser"
+  },
+  {
+    "title": "President of India",
+    "url": "https://presidentofindia.gov.in/",
+    "slug": "president-of-india"
+  },
+  {
+    "title": "Prime Minister's Office",
+    "url": "https://www.pmindia.gov.in/en/",
+    "slug": "prime-ministers-office"
+  },
+  {
+    "title": "Union Public Service Commission",
+    "url": "https://upsconline.nic.in/",
+    "slug": "union-public-service-commission"
+  },
+  {
+    "title": "Vice President of India",
+    "url": "https://vicepresidentofindia.nic.in/",
+    "slug": "vice-president-of-india"
+  }
+]

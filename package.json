@@ -1,9 +1,12 @@
 {
   "name": "make-in-india",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
-  "keywords": [],
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": ["india", "make-in-india", "indian-gov"],
   "author": "@planetabhi",
   "license": "MIT"
 }
