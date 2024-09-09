@@ -1,7 +1,7 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-async function mergeJsonFiles(srcDir = 'src', distDir = 'dist', outputFileName = 'make-in-india.json') {
+async function mergeJsonFiles(srcDir = 'src', distDir = 'dist', outputFileName = 'directory.json') {
     const root = path.resolve(__dirname);
     const sourcePath = path.join(root, srcDir);
     const destPath = path.join(root, distDir);
