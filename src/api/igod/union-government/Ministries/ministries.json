@@ -1,0 +1,267 @@
+[
+    {
+      "title": "AYUSH",
+      "url": "https://ayush.gov.in",
+      "slug": "ayush"
+    },
+    {
+      "title": "Agriculture and Farmers Welfare",
+      "url": null,
+      "slug": "agriculture-and-farmers-welfare"
+    },
+    {
+      "title": "Chemicals and Fertilizers",
+      "url": null,
+      "slug": "chemicals-and-fertilizers"
+    },
+    {
+      "title": "Civil Aviation",
+      "url": "https://civilaviation.gov.in",
+      "slug": "civil-aviation"
+    },
+    {
+      "title": "Coal",
+      "url": "https://coal.nic.in",
+      "slug": "coal"
+    },
+    {
+      "title": "Commerce and Industry",
+      "url": null,
+      "slug": "commerce-and-industry"
+    },
+    {
+      "title": "Communications",
+      "url": null,
+      "slug": "communications"
+    },
+    {
+      "title": "Consumer Affairs, Food and Public Distribution",
+      "url": null,
+      "slug": "consumer-affairs-food-and-public-distribution"
+    },
+    {
+      "title": "Cooperation",
+      "url": "https://www.cooperation.gov.in",
+      "slug": "cooperation"
+    },
+    {
+      "title": "Corporate Affairs",
+      "url": "https://www.mca.gov.in",
+      "slug": "corporate-affairs"
+    },
+    {
+      "title": "Culture",
+      "url": "https://indiaculture.gov.in",
+      "slug": "culture"
+    },
+    {
+      "title": "Defence",
+      "url": "https://www.mod.gov.in",
+      "slug": "defence"
+    },
+    {
+      "title": "Development of North Eastern Region",
+      "url": "https://mdoner.gov.in",
+      "slug": "development-of-north-eastern-region"
+    },
+    {
+      "title": "Earth Sciences",
+      "url": "https://moes.gov.in",
+      "slug": "earth-sciences"
+    },
+    {
+      "title": "Education",
+      "url": "https://www.education.gov.in",
+      "slug": "education"
+    },
+    {
+      "title": "Electronics and Information Technology",
+      "url": "https://meity.gov.in",
+      "slug": "electronics-and-information-technology"
+    },
+    {
+      "title": "Environment, Forest and Climate Change",
+      "url": "https://moef.gov.in",
+      "slug": "environment-forest-and-climate-change"
+    },
+    {
+      "title": "External Affairs",
+      "url": "https://www.mea.gov.in",
+      "slug": "external-affairs"
+    },
+    {
+      "title": "Finance",
+      "url": "https://www.finmin.nic.in",
+      "slug": "finance"
+    },
+    {
+      "title": "Fisheries, Animal Husbandry and Dairying",
+      "url": "https://dahd.nic.in",
+      "slug": "fisheries-animal-husbandry-and-dairying"
+    },
+    {
+      "title": "Food Processing Industries",
+      "url": "https://mofpi.gov.in",
+      "slug": "food-processing-industries"
+    },
+    {
+      "title": "Health and Family Welfare",
+      "url": "https://main.mohfw.gov.in",
+      "slug": "health-and-family-welfare"
+    },
+    {
+      "title": "Heavy Industries",
+      "url": "https://heavyindustries.gov.in",
+      "slug": "heavy-industries"
+    },
+    {
+      "title": "Home Affairs",
+      "url": "https://mha.gov.in",
+      "slug": "home-affairs"
+    },
+    {
+      "title": "Housing and Urban Affairs",
+      "url": "https://mohua.gov.in",
+      "slug": "housing-and-urban-affairs"
+    },
+    {
+      "title": "Information and Broadcasting",
+      "url": "https://mib.gov.in",
+      "slug": "information-and-broadcasting"
+    },
+    {
+      "title": "Jal Shakti",
+      "url": "http://jalshakti-dowr.gov.in",
+      "slug": "jal-shakti"
+    },
+    {
+      "title": "Labour and Employment",
+      "url": "https://labour.gov.in",
+      "slug": "labour-and-employment"
+    },
+    {
+      "title": "Law and Justice",
+      "url": "https://lawmin.gov.in",
+      "slug": "law-and-justice"
+    },
+    {
+      "title": "Micro, Small and Medium Enterprises",
+      "url": "https://msme.gov.in",
+      "slug": "micro-small-and-medium-enterprises"
+    },
+    {
+      "title": "Mines",
+      "url": "https://mines.gov.in",
+      "slug": "mines"
+    },
+    {
+      "title": "Minority Affairs",
+      "url": "https://minorityaffairs.gov.in",
+      "slug": "minority-affairs"
+    },
+    {
+      "title": "New and Renewable Energy",
+      "url": "https://mnre.gov.in",
+      "slug": "new-and-renewable-energy"
+    },
+    {
+      "title": "Panchayati Raj",
+      "url": "https://panchayati.gov.in",
+      "slug": "panchayati-raj"
+    },
+    {
+      "title": "Parliamentary Affairs",
+      "url": "https://mpa.gov.in",
+      "slug": "parliamentary-affairs"
+    },
+    {
+      "title": "Personnel, Public Grievances and Pensions",
+      "url": "https://dopt.gov.in",
+      "slug": "personnel-public-grievances-and-pensions"
+    },
+    {
+      "title": "Petroleum and Natural Gas",
+      "url": "https://mopng.gov.in",
+      "slug": "petroleum-and-natural-gas"
+    },
+    {
+      "title": "Planning",
+      "url": null,
+      "slug": "planning"
+    },
+    {
+      "title": "Power",
+      "url": "https://powermin.gov.in",
+      "slug": "power"
+    },
+    {
+      "title": "Railways",
+      "url": "https://indianrailways.gov.in",
+      "slug": "railways"
+    },
+    {
+      "title": "Road Transport and Highways",
+      "url": "https://morth.nic.in",
+      "slug": "road-transport-and-highways"
+    },
+    {
+      "title": "Rural Development",
+      "url": "https://rural.nic.in",
+      "slug": "rural-development"
+    },
+    {
+      "title": "Science and Technology",
+      "url": "https://dst.gov.in",
+      "slug": "science-and-technology"
+    },
+    {
+      "title": "Shipping",
+      "url": "http://shipmin.gov.in",
+      "slug": "shipping"
+    },
+    {
+      "title": "Skill Development and Entrepreneurship",
+      "url": "https://msde.gov.in",
+      "slug": "skill-development-and-entrepreneurship"
+    },
+    {
+      "title": "Social Justice and Empowerment",
+      "url": "https://socialjustice.gov.in",
+      "slug": "social-justice-and-empowerment"
+    },
+    {
+      "title": "Statistics and Programme Implementation",
+      "url": "https://mospi.gov.in",
+      "slug": "statistics-and-programme-implementation"
+    },
+    {
+      "title": "Steel",
+      "url": "https://steel.gov.in",
+      "slug": "steel"
+    },
+    {
+      "title": "Textiles",
+      "url": "https://texmin.gov.in",
+      "slug": "textiles"
+    },
+    {
+      "title": "Tourism",
+      "url": "https://tourism.gov.in",
+      "slug": "tourism"
+    },
+    {
+      "title": "Tribal Affairs",
+      "url": "https://tribal.gov.in",
+      "slug": "tribal-affairs"
+    },
+    {
+      "title": "Women and Child Development",
+      "url": "https://wcd.nic.in",
+      "slug": "women-and-child-development"
+    },
+    {
+      "title": "Youth Affairs and Sports",
+      "url": "https://yas.nic.in",
+      "slug": "youth-affairs-and-sports"
+    }
+  ]
