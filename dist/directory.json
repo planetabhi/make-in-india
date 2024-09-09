@@ -350,11 +350,6 @@
     "slug": "cantonment-board-shillong"
   },
   {
-    "title": "Central Grain Analysis Laboratory (CGAL)",
-    "url": "https://dfpd.nic.in/?q=node/979",
-    "slug": "central-grain-analysis-laboratory-cgal"
-  },
-  {
     "title": "Central Industrial Security Force (CISF)",
     "url": "https://cisf.gov.in",
     "slug": "central-industrial-security-force-cisf"
@@ -696,7 +691,7 @@
   },
   {
     "title": "Department of Water Resources, River Development and Ganga Rejuvenation",
-    "url": "http://mowr.gov.in",
+    "url": "https://mowr.gov.in",
     "slug": "department-of-water-resources-river-development-and-ganga-rejuvenation"
   },
   {
@@ -823,16 +818,6 @@
     "title": "Directorate of Standardisation, New Delhi",
     "url": "https://ddpdos.gov.in",
     "slug": "directorate-of-standardisation-new-delhi"
-  },
-  {
-    "title": "Directorate of Sugar",
-    "url": "https://dfpd.nic.in/?q=node/89",
-    "slug": "directorate-of-sugar"
-  },
-  {
-    "title": "Directorate of Sugar and Edible Oils",
-    "url": "https://dfpd.nic.in/?q=node/131",
-    "slug": "directorate-of-sugar-and-edible-oils"
   },
   {
     "title": "e-Filing Services, Registrar of Newspaper for India",
@@ -1200,11 +1185,6 @@
     "slug": "national-zoological-park-delhi"
   },
   {
-    "title": "National Zoological Park, Delhi",
-    "url": "https://nzpnewdelhi.gov.in/?ln=en",
-    "slug": "national-zoological-park-delhi-2"
-  },
-  {
     "title": "New and Renewable Energy",
     "url": "https://mnre.gov.in",
     "slug": "new-and-renewable-energy"
@@ -1328,11 +1308,6 @@
     "title": "Publications Division",
     "url": "https://www.publicationsdivision.nic.in",
     "slug": "publications-division"
-  },
-  {
-    "title": "Quality Control Cells (QCC)",
-    "url": "https://dfpd.nic.in/?q=node/981",
-    "slug": "quality-control-cells-qcc"
   },
   {
     "title": "Railways",

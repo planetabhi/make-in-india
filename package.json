@@ -1,12 +1,12 @@
 {
   "name": "make-in-india",
-  "version": "0.0.4",
-  "description": "A central hub for all Indian Government websites.",
+  "version": "0.0.5",
+  "description": "All Indian government sites.",
   "main": "index.js",
   "scripts": {
     "build": "node index.js"
   },
-  "keywords": ["india", "make-in-india", "indian-gov"],
+  "keywords": ["india", "make-in-india", "indian-gov", "government-websites"],
   "author": "@planetabhi",
   "license": "MIT"
 }
