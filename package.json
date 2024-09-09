@@ -1,7 +1,7 @@
 {
   "name": "make-in-india",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.4",
+  "description": "A central hub for all Indian Government websites.",
   "main": "index.js",
   "scripts": {
     "build": "node index.js"
