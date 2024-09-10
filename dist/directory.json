@@ -1,13 +1,48 @@
 [
   {
+    "title": ".IN Registry, National Internet eXchange of India (NIXI)",
+    "url": "https://www.registry.in",
+    "slug": "in-registry-national-internet-exchange-of-india-nixi"
+  },
+  {
+    "title": "Advanced Weapons And Equipment India Limited (AWEIL), Kanpur",
+    "url": "https://www.aweil.in",
+    "slug": "advanced-weapons-and-equipment-india-limited-aweil-kanpur"
+  },
+  {
+    "title": "Air india Assets Holding Limited (AIAHL)",
+    "url": "https://www.aiahl.in",
+    "slug": "air-india-assets-holding-limited-aiahl"
+  },
+  {
     "title": "Aircraft Accident Investigation Bureau (AAIB)",
     "url": "https://aaib.gov.in",
     "slug": "aircraft-accident-investigation-bureau-aaib"
   },
   {
+    "title": "Airports Authority of India (AAI)",
+    "url": "https://www.aai.aero",
+    "slug": "airports-authority-of-india-aai"
+  },
+  {
+    "title": "Andhra Pradesh Pollution Control Board",
+    "url": "https://pcb.ap.gov.in",
+    "slug": "andhra-pradesh-pollution-control-board"
+  },
+  {
+    "title": "Animal Welfare Board of India (AWBI)",
+    "url": "https://awbi.gov.in",
+    "slug": "animal-welfare-board-of-india-awbi"
+  },
+  {
     "title": "Anthropological Survey of India",
     "url": "https://ansi.gov.in",
     "slug": "anthropological-survey-of-india"
+  },
+  {
+    "title": "Antrix Corporation Limited",
+    "url": "https://www.antrix.co.in",
+    "slug": "antrix-corporation-limited"
   },
   {
     "title": "Archaeological Survey of India (ASI)",
@@ -25,9 +60,34 @@
     "slug": "archaeological-survey-of-india-jabalpur-circle"
   },
   {
+    "title": "Armed Forces Tribunal, Kolkata Bench, Kolkata",
+    "url": "https://aftkolkata.nic.in",
+    "slug": "armed-forces-tribunal-kolkata-bench-kolkata"
+  },
+  {
+    "title": "Armoured Vehicles Nigam Limited (AVNL), Chennai",
+    "url": "https://avnl.co.in",
+    "slug": "armoured-vehicles-nigam-limited-avnl-chennai"
+  },
+  {
+    "title": "Artificial Limbs Manufacturing Corporation of India (ALIMCO), Kanpur",
+    "url": "https://www.alimco.in",
+    "slug": "artificial-limbs-manufacturing-corporation-of-india-alimco-kanpur"
+  },
+  {
     "title": "Assam Rifles",
     "url": "https://assamrifles.gov.in",
     "slug": "assam-rifles"
+  },
+  {
+    "title": "Atherstone Investor Communications Limited",
+    "url": "https://www.aicl.in",
+    "slug": "atherstone-investor-communications-limited"
+  },
+  {
+    "title": "Atomic Energy Regulatory Board (AERB)",
+    "url": "https://www.aerb.gov.in/english",
+    "slug": "atomic-energy-regulatory-board-aerb"
   },
   {
     "title": "Atomic Minerals Directorate (AMD)",
@@ -40,9 +100,34 @@
     "slug": "ayush"
   },
   {
+    "title": "AYUSH Admissions Central Counseling Committee (AACCC), Ministry of AYUSH",
+    "url": "https://aaccc.gov.in",
+    "slug": "ayush-admissions-central-counseling-committee-aaccc-ministry-of-ayush"
+  },
+  {
+    "title": "Bansagar Control Board (BCB)",
+    "url": "https://bcb.gov.in",
+    "slug": "bansagar-control-board-bcb"
+  },
+  {
+    "title": "Basic Tasar Silkworm Seed Organisation (BTSSO), Bilaspur",
+    "url": "https://www.btsso.org",
+    "slug": "basic-tasar-silkworm-seed-organisation-btsso-bilaspur"
+  },
+  {
     "title": "BCG Vaccine Laboratory, Chennai",
     "url": "https://dirbcglab.gov.in",
     "slug": "bcg-vaccine-laboratory-chennai"
+  },
+  {
+    "title": "Bengal Chemicals and Pharmaceuticals Limited",
+    "url": "https://pharmaceuticals.gov.in/bengal-chemicals-pharmaceuticals-limited",
+    "slug": "bengal-chemicals-and-pharmaceuticals-limited"
+  },
+  {
+    "title": "Bengal Chemicals and Pharmaceuticals Limited (BCPL)",
+    "url": "https://bengalchemicals.co.in",
+    "slug": "bengal-chemicals-and-pharmaceuticals-limited-bcpl"
   },
   {
     "title": "Betwa River Board (BRB)",
@@ -55,6 +140,116 @@
     "slug": "bhabha-atomic-research-centre-barc"
   },
   {
+    "title": "Bharat Broadband Network Limited (BBNL)",
+    "url": "https://bbnl.nic.in",
+    "slug": "bharat-broadband-network-limited-bbnl"
+  },
+  {
+    "title": "Bharat Coking Coal Limited (BCCL)",
+    "url": "https://www.bcclweb.in",
+    "slug": "bharat-coking-coal-limited-bccl"
+  },
+  {
+    "title": "Bharat Dynamics Limited (BDL)",
+    "url": "https://bdl-india.in",
+    "slug": "bharat-dynamics-limited-bdl"
+  },
+  {
+    "title": "Bharat Earth Movers Limited (BEML), Bangalore",
+    "url": "https://www.bemlindia.in",
+    "slug": "bharat-earth-movers-limited-beml-bangalore"
+  },
+  {
+    "title": "Bharat Electronics Limited (BEL), Bangalore",
+    "url": "https://bel-india.in",
+    "slug": "bharat-electronics-limited-bel-bangalore"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited (BHEL)",
+    "url": "https://www.bhel.com",
+    "slug": "bharat-heavy-electricals-limited-bhel"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited (BHEL)",
+    "url": "https://trichy.bhel.com",
+    "slug": "bharat-heavy-electricals-limited-bhel-1"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited (BHEL) - Power Sector Eastern Region (PSER)",
+    "url": "https://pser.bhel.com",
+    "slug": "bharat-heavy-electricals-limited-bhel-power-sector-eastern-region-pser"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited (BHEL), Electronics Division, Bangalore",
+    "url": "https://edn.bhel.com",
+    "slug": "bharat-heavy-electricals-limited-bhel-electronics-division-bangalore"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited (BHEL), Haridwar",
+    "url": "https://hwr.bhel.com",
+    "slug": "bharat-heavy-electricals-limited-bhel-haridwar"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited (BHEL), Power Sector Western Region, Nagpur",
+    "url": "https://www.bhelpswr.co.in",
+    "slug": "bharat-heavy-electricals-limited-bhel-power-sector-western-region-nagpur"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited, Jhansi",
+    "url": "https://jhs.bhel.com",
+    "slug": "bharat-heavy-electricals-limited-jhansi"
+  },
+  {
+    "title": "Bharat Heavy Electricals Limited(BHEL), Bhopal",
+    "url": "https://bpl.bhel.com",
+    "slug": "bharat-heavy-electricals-limitedbhel-bhopal"
+  },
+  {
+    "title": "Bharat Petro Resources Limited",
+    "url": "https://bharatpetroresources.in",
+    "slug": "bharat-petro-resources-limited"
+  },
+  {
+    "title": "Bharat Petroleum Corporation Limited (BPCL)",
+    "url": "https://www.bharatpetroleum.in",
+    "slug": "bharat-petroleum-corporation-limited-bpcl"
+  },
+  {
+    "title": "Bharat Pumps and Compressors Limited, Allahabad",
+    "url": "https://www.bpcnaini.co.in",
+    "slug": "bharat-pumps-and-compressors-limited-allahabad"
+  },
+  {
+    "title": "Bharat Sanchar Nigam Limited Portal (BSNL)",
+    "url": "https://www.bsnl.co.in",
+    "slug": "bharat-sanchar-nigam-limited-portal-bsnl"
+  },
+  {
+    "title": "Bharatiya Nabhikiya Vidyut Nigam Limited (BHAVINI)",
+    "url": "https://bhavini.nic.in",
+    "slug": "bharatiya-nabhikiya-vidyut-nigam-limited-bhavini"
+  },
+  {
+    "title": "Biotechnology Industry Research Assistance Council, New Delhi",
+    "url": "https://birac.nic.in",
+    "slug": "biotechnology-industry-research-assistance-council-new-delhi"
+  },
+  {
+    "title": "Bird Group of Companies",
+    "url": "https://www.birdgroup.co.in",
+    "slug": "bird-group-of-companies"
+  },
+  {
+    "title": "Birds Jute and Exports Limited",
+    "url": "https://birdsjute.in",
+    "slug": "birds-jute-and-exports-limited"
+  },
+  {
+    "title": "Board of Radiation and Isotope Technology (BRIT)",
+    "url": "https://britatom.gov.in",
+    "slug": "board-of-radiation-and-isotope-technology-brit"
+  },
+  {
     "title": "Border Roads Organisation (BRO), New Delhi",
     "url": "https://bro.gov.in",
     "slug": "border-roads-organisation-bro-new-delhi"
@@ -63,6 +258,36 @@
     "title": "Border Security Force (BSF)",
     "url": "https://www.bsf.gov.in",
     "slug": "border-security-force-bsf"
+  },
+  {
+    "title": "Brahmaputra Cracker and Polymer Limited (BCPL), Guwahati",
+    "url": "https://bcplonline.co.in",
+    "slug": "brahmaputra-cracker-and-polymer-limited-bcpl-guwahati"
+  },
+  {
+    "title": "Brahmaputra Valley Fertilizer Corporation Limited (BVFCL)",
+    "url": "https://bvfcl.com",
+    "slug": "brahmaputra-valley-fertilizer-corporation-limited-bvfcl"
+  },
+  {
+    "title": "Braithwaite and Co Limited",
+    "url": "https://www.braithwaiteindia.com",
+    "slug": "braithwaite-and-co-limited"
+  },
+  {
+    "title": "Braithwaite Burn and Jessop Construction Company Limited",
+    "url": "https://www.bbjconst.com",
+    "slug": "braithwaite-burn-and-jessop-construction-company-limited"
+  },
+  {
+    "title": "Bridge and Roof Company (India) Limited",
+    "url": "https://www.bridgeroof.co.in",
+    "slug": "bridge-and-roof-company-india-limited"
+  },
+  {
+    "title": "Broadcasting Engineering Corporation of India Limited (BECIL)",
+    "url": "https://www.becil.com",
+    "slug": "broadcasting-engineering-corporation-of-india-limited-becil"
   },
   {
     "title": "Bureau of Civil Aviation Security (BCAS)",
@@ -123,6 +348,11 @@
     "title": "Cantonment Board, Aurangabad",
     "url": "https://aurangabad.cantt.gov.in",
     "slug": "cantonment-board-aurangabad"
+  },
+  {
+    "title": "Cantonment Board, Aurangabad, Maharashtra",
+    "url": "https://www.cbaurangabad.in",
+    "slug": "cantonment-board-aurangabad-maharashtra"
   },
   {
     "title": "Cantonment Board, Ayodhya",
@@ -350,9 +580,49 @@
     "slug": "cantonment-board-shillong"
   },
   {
+    "title": "Capacity Building Commission",
+    "url": "https://cbc.gov.in",
+    "slug": "capacity-building-commission"
+  },
+  {
+    "title": "Central Coalfields Limited (CCL)",
+    "url": "https://www.centralcoalfields.in",
+    "slug": "central-coalfields-limited-ccl"
+  },
+  {
+    "title": "Central Electricity Regulatory Commission (CERC)",
+    "url": "https://cercind.gov.in",
+    "slug": "central-electricity-regulatory-commission-cerc"
+  },
+  {
+    "title": "Central Electronics Limited (CEL)",
+    "url": "https://www.celindia.co.in",
+    "slug": "central-electronics-limited-cel"
+  },
+  {
+    "title": "Central Goods and Services Tax Audit Lucknow",
+    "url": "https://cgstauditlko.gov.in",
+    "slug": "central-goods-and-services-tax-audit-lucknow"
+  },
+  {
+    "title": "Central GST and Central Excise Commissionerate, Daman",
+    "url": "https://www.damancgst.gov.in",
+    "slug": "central-gst-and-central-excise-commissionerate-daman"
+  },
+  {
+    "title": "Central GST and Central Excise Commissionerate, Patna",
+    "url": "https://cexpatna.bih.nic.in",
+    "slug": "central-gst-and-central-excise-commissionerate-patna"
+  },
+  {
     "title": "Central Industrial Security Force (CISF)",
     "url": "https://cisf.gov.in",
     "slug": "central-industrial-security-force-cisf"
+  },
+  {
+    "title": "Central Information Commission (CIC)",
+    "url": "https://cic.gov.in",
+    "slug": "central-information-commission-cic"
   },
   {
     "title": "Central Institute of Coastal Engineering for Fishery, Bangalore",
@@ -370,6 +640,11 @@
     "slug": "central-institute-of-plastics-engineering-and-technology-cipet"
   },
   {
+    "title": "Central Mine Planning and Design Institute Limited (CMPDI)",
+    "url": "https://www.cmpdi.co.in",
+    "slug": "central-mine-planning-and-design-institute-limited-cmpdi"
+  },
+  {
     "title": "Central Pollution Control Board",
     "url": "https://cpcb.nic.in",
     "slug": "central-pollution-control-board"
@@ -378,6 +653,11 @@
     "title": "Central Public Works Department (CPWD)",
     "url": "https://cpwd.gov.in",
     "slug": "central-public-works-department-cpwd"
+  },
+  {
+    "title": "Central Railside Warehouse Company Limited (CRWC)",
+    "url": "https://crwc.in",
+    "slug": "central-railside-warehouse-company-limited-crwc"
   },
   {
     "title": "Central Reserve Police Force (CRPF)",
@@ -395,6 +675,16 @@
     "slug": "central-soil-and-materials-research-station"
   },
   {
+    "title": "Central Vigilance Commission (CVC)",
+    "url": "https://cvc.gov.in",
+    "slug": "central-vigilance-commission-cvc"
+  },
+  {
+    "title": "Central Warehousing Corporation (CWC)",
+    "url": "https://cewacor.nic.in",
+    "slug": "central-warehousing-corporation-cwc"
+  },
+  {
     "title": "Central Water and Power Research Station (CWPRS)",
     "url": "https://cwprs.gov.in",
     "slug": "central-water-and-power-research-station-cwprs"
@@ -410,6 +700,26 @@
     "slug": "centre-for-development-of-advanced-computing-c-dac"
   },
   {
+    "title": "Centre for Development of Telematics (C-DOT)",
+    "url": "https://www.cdot.in",
+    "slug": "centre-for-development-of-telematics-c-dot"
+  },
+  {
+    "title": "Certification Engineers International Limited (CEIL)",
+    "url": "https://www.ceil.co.in",
+    "slug": "certification-engineers-international-limited-ceil"
+  },
+  {
+    "title": "Chennai Petroleum Corporation Limited (CPCL)",
+    "url": "https://www.cpcl.co.in",
+    "slug": "chennai-petroleum-corporation-limited-cpcl"
+  },
+  {
+    "title": "Chief Commissioner of Customs (Preventive), Tiruchirappalli",
+    "url": "https://trichycustomszone.gov.in",
+    "slug": "chief-commissioner-of-customs-preventive-tiruchirappalli"
+  },
+  {
     "title": "Civil Aviation",
     "url": "https://civilaviation.gov.in",
     "slug": "civil-aviation"
@@ -418,6 +728,16 @@
     "title": "Coal",
     "url": "https://coal.nic.in",
     "slug": "coal"
+  },
+  {
+    "title": "Coal India Limited (CIL)",
+    "url": "https://www.coalindia.in",
+    "slug": "coal-india-limited-cil"
+  },
+  {
+    "title": "Cochin Shipyard Limited (CSL)",
+    "url": "https://cochinshipyard.in",
+    "slug": "cochin-shipyard-limited-csl"
   },
   {
     "title": "Coconut Development Board",
@@ -440,9 +760,39 @@
     "slug": "commission-for-agricultural-costs-and-prices-cacp"
   },
   {
+    "title": "Commissionerate of Central Excise and Customs, Vadodara - II",
+    "url": "https://www.gstvdr2.gov.in",
+    "slug": "commissionerate-of-central-excise-and-customs-vadodara-ii"
+  },
+  {
+    "title": "Committee Control and Supervision of Experiments on Animals",
+    "url": "https://ccsea.gov.in",
+    "slug": "committee-control-and-supervision-of-experiments-on-animals"
+  },
+  {
+    "title": "Committee of Parliament on Official Language",
+    "url": "https://rajbhashasamiti.gov.in",
+    "slug": "committee-of-parliament-on-official-language"
+  },
+  {
+    "title": "Common Management Admission Test (CMAT)",
+    "url": "https://cmat.nta.nic.in",
+    "slug": "common-management-admission-test-cmat"
+  },
+  {
+    "title": "Competition Commission of India",
+    "url": "https://www.cci.gov.in",
+    "slug": "competition-commission-of-india"
+  },
+  {
     "title": "Comptroller and Auditor General (CAG) of India",
     "url": "https://cag.gov.in/",
     "slug": "comptroller-and-auditor-general-of-india"
+  },
+  {
+    "title": "Container Corporation of India Limited (CONCOR)",
+    "url": "https://www.concorindia.com",
+    "slug": "container-corporation-of-india-limited-concor"
   },
   {
     "title": "Controller General of Defence Accounts (CGDA)",
@@ -460,14 +810,269 @@
     "slug": "corporate-affairs"
   },
   {
+    "title": "Cotton Corporation of India Limited (CCI)",
+    "url": "https://cotcorp.org.in",
+    "slug": "cotton-corporation-of-india-limited-cci"
+  },
+  {
+    "title": "Council of Scientific and Industrial Research (CSIR)",
+    "url": "https://www.csir.res.in",
+    "slug": "council-of-scientific-and-industrial-research-csir"
+  },
+  {
+    "title": "CSIR-Advanced Materials and Processes Research Institute (AMPRI), Bhopal",
+    "url": "https://www.ampri.res.in",
+    "slug": "csir-advanced-materials-and-processes-research-institute-ampri-bhopal"
+  },
+  {
+    "title": "CSIR-Central Building Research Institute (CBRI), Roorkee",
+    "url": "https://www.cbri.res.in",
+    "slug": "csir-central-building-research-institute-cbri-roorkee"
+  },
+  {
+    "title": "CSIR-Central Drug Research Institute (CDRI), Lucknow",
+    "url": "https://cdri.res.in",
+    "slug": "csir-central-drug-research-institute-cdri-lucknow"
+  },
+  {
+    "title": "CSIR-Central Electrochemical Research Institute (CECRI), Karaikudi",
+    "url": "https://www.cecri.res.in",
+    "slug": "csir-central-electrochemical-research-institute-cecri-karaikudi"
+  },
+  {
+    "title": "CSIR-Central Food Technological Research Institute (CFTRI), Mysore",
+    "url": "https://www.cftri.res.in",
+    "slug": "csir-central-food-technological-research-institute-cftri-mysore"
+  },
+  {
+    "title": "CSIR-Central Glass and Ceramic Research Institute (CGCRI), Kolkata",
+    "url": "https://www.cgcri.res.in",
+    "slug": "csir-central-glass-and-ceramic-research-institute-cgcri-kolkata"
+  },
+  {
+    "title": "CSIR-Central Institute of Medicinal and Aromatic Plants (CIMAP), Lucknow",
+    "url": "https://www.cimap.res.in",
+    "slug": "csir-central-institute-of-medicinal-and-aromatic-plants-cimap-lucknow"
+  },
+  {
+    "title": "CSIR-Central Institute of Mining and Fuel Research (CIMFR), Dhanbad",
+    "url": "https://www.cimfr.nic.in",
+    "slug": "csir-central-institute-of-mining-and-fuel-research-cimfr-dhanbad"
+  },
+  {
+    "title": "CSIR-Central Leather Research Institute (CLRI), Chennai",
+    "url": "https://www.clri.org",
+    "slug": "csir-central-leather-research-institute-clri-chennai"
+  },
+  {
+    "title": "CSIR-Central Mechanical Engineering Research Institute (CMERI), Durgapur",
+    "url": "https://www.cmeri.res.in",
+    "slug": "csir-central-mechanical-engineering-research-institute-cmeri-durgapur"
+  },
+  {
+    "title": "CSIR-Central Road Research Institute (CRRI), New Delhi",
+    "url": "https://www.crridom.gov.in",
+    "slug": "csir-central-road-research-institute-crri-new-delhi"
+  },
+  {
+    "title": "CSIR-Central Scientific Instruments Organisation (CSIO), Chandigarh",
+    "url": "https://www.csio.res.in",
+    "slug": "csir-central-scientific-instruments-organisation-csio-chandigarh"
+  },
+  {
+    "title": "CSIR-Centre for Cellular and Molecular Biology (CCMB), Hyderabad",
+    "url": "https://www.ccmb.res.in",
+    "slug": "csir-centre-for-cellular-and-molecular-biology-ccmb-hyderabad"
+  },
+  {
+    "title": "CSIR-Fourth Paradigm Institute (4PI), Bengaluru",
+    "url": "https://www.csir4pi.in",
+    "slug": "csir-fourth-paradigm-institute-4pi-bengaluru"
+  },
+  {
+    "title": "CSIR-Indian Institute of Chemical Biology (IICB), Kolkata",
+    "url": "https://www.iicb.res.in",
+    "slug": "csir-indian-institute-of-chemical-biology-iicb-kolkata"
+  },
+  {
+    "title": "CSIR-Indian Institute of Chemical Technology (IICT), Hyderabad",
+    "url": "https://www.iict.res.in",
+    "slug": "csir-indian-institute-of-chemical-technology-iict-hyderabad"
+  },
+  {
+    "title": "CSIR-Indian Institute of Integrative Medicine (IIIM), Jammu",
+    "url": "https://www.iiim.res.in",
+    "slug": "csir-indian-institute-of-integrative-medicine-iiim-jammu"
+  },
+  {
+    "title": "CSIR-Indian Institute of Petroleum (IIP), Dehradun",
+    "url": "https://www.iip.res.in",
+    "slug": "csir-indian-institute-of-petroleum-iip-dehradun"
+  },
+  {
+    "title": "CSIR-Indian Institute of Toxicology Research (IITR), Lucknow",
+    "url": "https://www.iitrindia.org",
+    "slug": "csir-indian-institute-of-toxicology-research-iitr-lucknow"
+  },
+  {
+    "title": "CSIR-Institute of Genomics and Integrative Biology (IGIB), Delhi",
+    "url": "https://www.igib.res.in",
+    "slug": "csir-institute-of-genomics-and-integrative-biology-igib-delhi"
+  },
+  {
+    "title": "CSIR-Institute of Himalayan Bioresource Technology (IHBT), Palampur",
+    "url": "https://www.ihbt.res.in",
+    "slug": "csir-institute-of-himalayan-bioresource-technology-ihbt-palampur"
+  },
+  {
+    "title": "CSIR-Institute of Microbial Technology (IMTECH), Chandigarh",
+    "url": "https://www.imtech.res.in",
+    "slug": "csir-institute-of-microbial-technology-imtech-chandigarh"
+  },
+  {
+    "title": "CSIR-Institute of Minerals and Materials Technology (IMMT), Bhubaneswar",
+    "url": "https://www.immt.res.in",
+    "slug": "csir-institute-of-minerals-and-materials-technology-immt-bhubaneswar"
+  },
+  {
+    "title": "CSIR-National Aerospace Laboratories (NAL), Bengaluru",
+    "url": "https://www.nal.res.in",
+    "slug": "csir-national-aerospace-laboratories-nal-bengaluru"
+  },
+  {
+    "title": "CSIR-National Botanical Research Institute (NBRI), Lucknow",
+    "url": "https://www.nbri.res.in",
+    "slug": "csir-national-botanical-research-institute-nbri-lucknow"
+  },
+  {
+    "title": "CSIR-National Chemical Laboratory (NCL), Pune",
+    "url": "https://www.ncl-india.org",
+    "slug": "csir-national-chemical-laboratory-ncl-pune"
+  },
+  {
+    "title": "CSIR-National Environmental Engineering Research Institute (NEERI), Nagpur",
+    "url": "https://www.neeri.res.in",
+    "slug": "csir-national-environmental-engineering-research-institute-neeri-nagpur"
+  },
+  {
+    "title": "CSIR-National Geophysical Research Institute (NGRI), Hyderabad",
+    "url": "https://www.ngri.org.in",
+    "slug": "csir-national-geophysical-research-institute-ngri-hyderabad"
+  },
+  {
+    "title": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST), Thiruvananthapuram",
+    "url": "https://www.niist.res.in",
+    "slug": "csir-national-institute-for-interdisciplinary-science-and-technology-niist-thiruvananthapuram"
+  },
+  {
+    "title": "CSIR-National Institute of Oceanography (NIO), Goa",
+    "url": "https://www.nio.org",
+    "slug": "csir-national-institute-of-oceanography-nio-goa"
+  },
+  {
+    "title": "CSIR-National Institute of Science Communication and Policy Research (NIScPR), New Delhi",
+    "url": "https://www.niscpr.res.in",
+    "slug": "csir-national-institute-of-science-communication-and-policy-research-niscpr-new-delhi"
+  },
+  {
+    "title": "CSIR-National Institute of Science, Technology and Development Studies (NISTADS), New Delhi",
+    "url": "https://www.nistads.res.in",
+    "slug": "csir-national-institute-of-science-technology-and-development-studies-nistads-new-delhi"
+  },
+  {
+    "title": "CSIR-National Metallurgical Laboratory (NML), Jamshedpur",
+    "url": "https://www.nmlindia.org",
+    "slug": "csir-national-metallurgical-laboratory-nml-jamshedpur"
+  },
+  {
+    "title": "CSIR-National Physical Laboratory (NPL), New Delhi",
+    "url": "https://www.nplindia.org",
+    "slug": "csir-national-physical-laboratory-npl-new-delhi"
+  },
+  {
+    "title": "CSIR-North East Institute of Science and Technology (NEIST), Jorhat",
+    "url": "https://www.neist.res.in",
+    "slug": "csir-north-east-institute-of-science-and-technology-neist-jorhat"
+  },
+  {
+    "title": "CSIR-Structural Engineering Research Centre (SERC), Chennai",
+    "url": "https://www.serc.res.in",
+    "slug": "csir-structural-engineering-research-centre-serc-chennai"
+  },
+  {
+    "title": "CSIR-Unit for Research and Development of Information Products (URDIP), Pune",
+    "url": "https://www.urdip.res.in",
+    "slug": "csir-unit-for-research-and-development-of-information-products-urdip-pune"
+  },
+  {
     "title": "Culture",
     "url": "https://indiaculture.gov.in",
     "slug": "culture"
   },
   {
+    "title": "Customs and Central Excise Commissionerate, Jammu and Kashmir",
+    "url": "https://ccejk.nic.in",
+    "slug": "customs-and-central-excise-commissionerate-jammu-and-kashmir"
+  },
+  {
+    "title": "Customs Commissionerate Preventive, Amritsar",
+    "url": "https://amritsarcustoms.gov.in",
+    "slug": "customs-commissionerate-preventive-amritsar"
+  },
+  {
+    "title": "Customs Preventive Commissionerate, Central Board of Excise and Customs, Vijayawada",
+    "url": "https://apcustoms.gov.in",
+    "slug": "customs-preventive-commissionerate-central-board-of-excise-and-customs-vijayawada"
+  },
+  {
+    "title": "Customs, Central Excise and Service Tax Commissionerate, Indore",
+    "url": "https://gstindore.gov.in",
+    "slug": "customs-central-excise-and-service-tax-commissionerate-indore"
+  },
+  {
+    "title": "Customs, Central Excise and Service Tax Commissionorate, Tirupati",
+    "url": "https://tirupaticentralexcise.gov.in",
+    "slug": "customs-central-excise-and-service-tax-commissionorate-tirupati"
+  },
+  {
+    "title": "Damodar Valley Corporation (DVC)",
+    "url": "https://www.dvc.gov.in",
+    "slug": "damodar-valley-corporation-dvc"
+  },
+  {
+    "title": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL)",
+    "url": "https://dfccil.com",
+    "slug": "dedicated-freight-corridor-corporation-of-india-limited-dfccil"
+  },
+  {
+    "title": "Deendayal Antyodaya Yojana",
+    "url": "https://nulm.gov.in",
+    "slug": "deendayal-antyodaya-yojana"
+  },
+  {
+    "title": "Deendayal Antyodaya Yojana-NRLM",
+    "url": "https://aajeevika.gov.in",
+    "slug": "deendayal-antyodaya-yojana-nrlm"
+  },
+  {
     "title": "Defence",
     "url": "https://www.mod.gov.in",
     "slug": "defence"
+  },
+  {
+    "title": "Delhi Metro Rail Corporation Limited (DMRC)",
+    "url": "https://www.delhimetrorail.com",
+    "slug": "delhi-metro-rail-corporation-limited-dmrc"
+  },
+  {
+    "title": "Delhi Transport Corporation (DTC)",
+    "url": "https://dtc.nic.in",
+    "slug": "delhi-transport-corporation-dtc"
+  },
+  {
+    "title": "Delhi Urban Art Commission (DUAC)",
+    "url": "https://www.duac.org.in",
+    "slug": "delhi-urban-art-commission-duac"
   },
   {
     "title": "Department for Promotion of Industry and Internal Trade",
@@ -700,9 +1305,19 @@
     "slug": "department-of-youth-affairs"
   },
   {
+    "title": "Development Commissioner",
+    "url": "https://dcmsme.gov.in",
+    "slug": "development-commissioner"
+  },
+  {
     "title": "Development of North Eastern Region",
     "url": "https://mdoner.gov.in",
     "slug": "development-of-north-eastern-region"
+  },
+  {
+    "title": "Dhanbad Commissionerate, Central Excise and Service Tax",
+    "url": "https://cgstranchi.gov.in/dhnbad_area.php",
+    "slug": "dhanbad-commissionerate-central-excise-and-service-tax"
   },
   {
     "title": "Directorate General of Civil Aviation (DGCA)",
@@ -820,6 +1435,21 @@
     "slug": "directorate-of-standardisation-new-delhi"
   },
   {
+    "title": "Distance Education Bureau (DEB) - A Bureau of University Grants Commission (UGC)",
+    "url": "https://www.ugc.ac.in/deb",
+    "slug": "distance-education-bureau-deb-a-bureau-of-university-grants-commission-ugc"
+  },
+  {
+    "title": "District Development Coordination and Monitoring Committees (DISHA)",
+    "url": "https://disha.gov.in",
+    "slug": "district-development-coordination-and-monitoring-committees-disha"
+  },
+  {
+    "title": "Dredging Corporation of India Limited (DCI)",
+    "url": "https://www.dredge-india.com",
+    "slug": "dredging-corporation-of-india-limited-dci"
+  },
+  {
     "title": "e-Filing Services, Registrar of Newspaper for India",
     "url": "https://egov.rni.nic.in",
     "slug": "e-filing-services-registrar-of-newspaper-for-india"
@@ -828,6 +1458,26 @@
     "title": "Earth Sciences",
     "url": "https://moes.gov.in",
     "slug": "earth-sciences"
+  },
+  {
+    "title": "Eastern Coalfields Limited (ECL)",
+    "url": "https://www.easterncoal.gov.in",
+    "slug": "eastern-coalfields-limited-ecl"
+  },
+  {
+    "title": "Eastern Regional Power Committee (ERPC)",
+    "url": "https://erpc.gov.in",
+    "slug": "eastern-regional-power-committee-erpc"
+  },
+  {
+    "title": "Ecologists and Environmental Planners",
+    "url": "https://www.eeplindia.org",
+    "slug": "ecologists-and-environmental-planners"
+  },
+  {
+    "title": "EdCIL (India) Limited",
+    "url": "https://www.edcilindia.co.in",
+    "slug": "edcil-india-limited"
   },
   {
     "title": "Education",
@@ -845,9 +1495,19 @@
     "slug": "electronics-and-information-technology"
   },
   {
+    "title": "Electronics Corporation of India Limited (ECIL)",
+    "url": "https://www.ecil.co.in",
+    "slug": "electronics-corporation-of-india-limited-ecil"
+  },
+  {
     "title": "Employment News",
     "url": "https://employmentnews.gov.in",
     "slug": "employment-news"
+  },
+  {
+    "title": "Engineers India Limited (EIL)",
+    "url": "https://www.engineersindia.com",
+    "slug": "engineers-india-limited-eil"
   },
   {
     "title": "Environment, Forest and Climate Change",
@@ -860,6 +1520,11 @@
     "slug": "ex-servicemen-contributory-health-scheme-echs-new-delhi"
   },
   {
+    "title": "Export Credit Guarantee Corporation of India Limited (ECGC)",
+    "url": "https://www.ecgc.in",
+    "slug": "export-credit-guarantee-corporation-of-india-limited-ecgc"
+  },
+  {
     "title": "External Affairs",
     "url": "https://www.mea.gov.in",
     "slug": "external-affairs"
@@ -868,6 +1533,21 @@
     "title": "Farakka Barrage Project (FBP)",
     "url": "https://fbp.gov.in",
     "slug": "farakka-barrage-project-fbp"
+  },
+  {
+    "title": "FCI Aravali Gypsum and Minerals India Limited (FAGMIL)",
+    "url": "https://www.fagmil.nic.in",
+    "slug": "fci-aravali-gypsum-and-minerals-india-limited-fagmil"
+  },
+  {
+    "title": "Fertilizer Corporation of India Limited (FCIL)",
+    "url": "https://www.fertcorpindia.nic.in",
+    "slug": "fertilizer-corporation-of-india-limited-fcil"
+  },
+  {
+    "title": "Fertilizers and Chemicals Travancore Limited (FACT)",
+    "url": "https://www.fact.co.in",
+    "slug": "fertilizers-and-chemicals-travancore-limited-fact"
   },
   {
     "title": "Finance",
@@ -890,6 +1570,11 @@
     "slug": "fishery-survey-of-india-fsi-mumbai"
   },
   {
+    "title": "Food Corporation of India (FCI)",
+    "url": "https://fci.gov.in",
+    "slug": "food-corporation-of-india-fci"
+  },
+  {
     "title": "Food Processing Industries",
     "url": "https://mofpi.gov.in",
     "slug": "food-processing-industries"
@@ -900,9 +1585,29 @@
     "slug": "forest-survey-of-india-fsi"
   },
   {
+    "title": "Ganga Flood Control Commission (GFCC), Patna",
+    "url": "https://gfcc.gov.in",
+    "slug": "ganga-flood-control-commission-gfcc-patna"
+  },
+  {
+    "title": "Garden Reach Shipbuilders and Engineers Limited (GRSE)",
+    "url": "https://www.grse.in",
+    "slug": "garden-reach-shipbuilders-and-engineers-limited-grse"
+  },
+  {
     "title": "Geological Survey of India (GSI)",
     "url": "https://www.gsi.gov.in",
     "slug": "geological-survey-of-india-gsi"
+  },
+  {
+    "title": "Goa Shipyard Limited (GSL)",
+    "url": "https://www.goashipyard.in",
+    "slug": "goa-shipyard-limited-gsl"
+  },
+  {
+    "title": "Goods and Service Tax and Central Excise Commissionerate (GST), Mumbai Zone",
+    "url": "https://gstmumbai.gov.in",
+    "slug": "goods-and-service-tax-and-central-excise-commissionerate-gst-mumbai-zone"
   },
   {
     "title": "Goods and Services Tax and Central Excise (GST), Delhi Zone",
@@ -910,9 +1615,39 @@
     "slug": "goods-and-services-tax-and-central-excise-gst-delhi-zone"
   },
   {
+    "title": "Goods and Services Tax Commissionerate (GST), Delhi South",
+    "url": "https://gstdelhizone.gov.in/south/index-south.php",
+    "slug": "goods-and-services-tax-commissionerate-gst-delhi-south"
+  },
+  {
+    "title": "Goods and Services Tax Commissionerate (GST), Mumbai East",
+    "url": "https://gstmumbaieast.gov.in",
+    "slug": "goods-and-services-tax-commissionerate-gst-mumbai-east"
+  },
+  {
     "title": "Government of India Stationery Office, Kolkata",
     "url": "https://giso.gov.in",
     "slug": "government-of-india-stationery-office-kolkata"
+  },
+  {
+    "title": "Grievance Appellate Committee",
+    "url": "https://gac.gov.in",
+    "slug": "grievance-appellate-committee"
+  },
+  {
+    "title": "Haj Committee of India",
+    "url": "https://www.hajcommittee.gov.in",
+    "slug": "haj-committee-of-india"
+  },
+  {
+    "title": "Handicrafts and Handlooms Export Corporation Limited",
+    "url": "https://www.hhecworld.com",
+    "slug": "handicrafts-and-handlooms-export-corporation-limited"
+  },
+  {
+    "title": "Handicrafts and Handlooms Export Corporation of India Limited (HHEC)",
+    "url": "https://www.hhecworld.in",
+    "slug": "handicrafts-and-handlooms-export-corporation-of-india-limited-hhec"
   },
   {
     "title": "Health and Family Welfare",
@@ -920,9 +1655,64 @@
     "slug": "health-and-family-welfare"
   },
   {
+    "title": "Heavy Engineering Corporation Limited (HEC)",
+    "url": "https://www.hecltd.com",
+    "slug": "heavy-engineering-corporation-limited-hec"
+  },
+  {
     "title": "Heavy Industries",
     "url": "https://heavyindustries.gov.in",
     "slug": "heavy-industries"
+  },
+  {
+    "title": "Heavy Water Board (HWB)",
+    "url": "https://hwb.gov.in",
+    "slug": "heavy-water-board-hwb"
+  },
+  {
+    "title": "Hindustan Aeronautics Limited (HAL)",
+    "url": "https://hal-india.co.in",
+    "slug": "hindustan-aeronautics-limited-hal"
+  },
+  {
+    "title": "Hindustan Aeronautics Limited, Bangalore",
+    "url": "https://www.hal-india.co.in",
+    "slug": "hindustan-aeronautics-limited-bangalore"
+  },
+  {
+    "title": "Hindustan Antibiotics Limited (HAL)",
+    "url": "https://www.hindantibiotics.in",
+    "slug": "hindustan-antibiotics-limited-hal"
+  },
+  {
+    "title": "Hindustan Copper Limited (HCL)",
+    "url": "https://www.hindustancopper.com",
+    "slug": "hindustan-copper-limited-hcl"
+  },
+  {
+    "title": "Hindustan Insecticides Limited (HIL)",
+    "url": "https://www.hil.gov.in",
+    "slug": "hindustan-insecticides-limited-hil"
+  },
+  {
+    "title": "Hindustan Organic Chemicals Limited (HOCL)",
+    "url": "https://www.hoclindia.com",
+    "slug": "hindustan-organic-chemicals-limited-hocl"
+  },
+  {
+    "title": "Hindustan Paper Corporation Ltd.",
+    "url": "https://www.hindpaper.in",
+    "slug": "hindustan-paper-corporation-ltd"
+  },
+  {
+    "title": "Hindustan Petroleum Corporation Limited (HPCL)",
+    "url": "https://www.hindustanpetroleum.com",
+    "slug": "hindustan-petroleum-corporation-limited-hpcl"
+  },
+  {
+    "title": "HMT Machine Tools Ltd.",
+    "url": "https://www.hmtmachinetools.com",
+    "slug": "hmt-machine-tools-ltd"
   },
   {
     "title": "Home Affairs",
@@ -935,9 +1725,169 @@
     "slug": "housing-and-urban-affairs"
   },
   {
+    "title": "Housing and Urban Development Corporation Limited (HUDCO)",
+    "url": "https://www.hudco.org",
+    "slug": "housing-and-urban-development-corporation-limited-hudco"
+  },
+  {
+    "title": "HSCC (India) Limited",
+    "url": "https://www.hsccltd.co.in",
+    "slug": "hscc-india-limited"
+  },
+  {
+    "title": "ICAR-Central Institute of Fisheries Technology (CIFT), Kochi",
+    "url": "https://www.cift.res.in",
+    "slug": "icar-central-institute-of-fisheries-technology-cift-kochi"
+  },
+  {
+    "title": "ICAR-Central Marine Fisheries Research Institute (CMFRI), Kochi",
+    "url": "https://www.cmfri.org.in",
+    "slug": "icar-central-marine-fisheries-research-institute-cmfri-kochi"
+  },
+  {
+    "title": "ICAR-Central Plantation Crops Research Institute (CPCRI), Kasaragod",
+    "url": "https://www.cpcri.gov.in",
+    "slug": "icar-central-plantation-crops-research-institute-cpcri-kasaragod"
+  },
+  {
+    "title": "ICAR-Indian Agricultural Research Institute (IARI), New Delhi",
+    "url": "https://www.iari.res.in",
+    "slug": "icar-indian-agricultural-research-institute-iari-new-delhi"
+  },
+  {
+    "title": "ICAR-Indian Institute of Horticultural Research (IIHR), Bengaluru",
+    "url": "https://www.iihr.res.in",
+    "slug": "icar-indian-institute-of-horticultural-research-iihr-bengaluru"
+  },
+  {
+    "title": "ICAR-Indian Institute of Spices Research (IISR), Kozhikode",
+    "url": "https://www.spices.res.in",
+    "slug": "icar-indian-institute-of-spices-research-iisr-kozhikode"
+  },
+  {
+    "title": "ICAR-Indian Veterinary Research Institute (IVRI), Izatnagar",
+    "url": "https://www.ivri.nic.in",
+    "slug": "icar-indian-veterinary-research-institute-ivri-izatnagar"
+  },
+  {
+    "title": "ICAR-National Academy of Agricultural Research Management (NAARM), Hyderabad",
+    "url": "https://www.naarm.org.in",
+    "slug": "icar-national-academy-of-agricultural-research-management-naarm-hyderabad"
+  },
+  {
+    "title": "ICAR-National Bureau of Agricultural Insect Resources (NBAIR), Bengaluru",
+    "url": "https://www.nbair.res.in",
+    "slug": "icar-national-bureau-of-agricultural-insect-resources-nbair-bengaluru"
+  },
+  {
+    "title": "ICAR-National Bureau of Animal Genetic Resources (NBAGR), Karnal",
+    "url": "https://www.nbagr.res.in",
+    "slug": "icar-national-bureau-of-animal-genetic-resources-nbagr-karnal"
+  },
+  {
+    "title": "ICAR-National Bureau of Fish Genetic Resources (NBFGR), Lucknow",
+    "url": "https://www.nbfgr.res.in",
+    "slug": "icar-national-bureau-of-fish-genetic-resources-nbfgr-lucknow"
+  },
+  {
+    "title": "ICAR-National Bureau of Plant Genetic Resources (NBPGR), New Delhi",
+    "url": "https://www.nbpgr.ernet.in",
+    "slug": "icar-national-bureau-of-plant-genetic-resources-nbpgr-new-delhi"
+  },
+  {
+    "title": "ICAR-National Dairy Research Institute (NDRI), Karnal",
+    "url": "https://www.ndri.res.in",
+    "slug": "icar-national-dairy-research-institute-ndri-karnal"
+  },
+  {
+    "title": "ICAR-National Institute of Abiotic Stress Management (NIASM), Baramati",
+    "url": "https://www.niam.res.in",
+    "slug": "icar-national-institute-of-abiotic-stress-management-niasm-baramati"
+  },
+  {
+    "title": "ICAR-National Institute of Agricultural Economics and Policy Research (NIAP), New Delhi",
+    "url": "https://www.ncap.res.in",
+    "slug": "icar-national-institute-of-agricultural-economics-and-policy-research-niap-new-delhi"
+  },
+  {
+    "title": "ICAR-National Institute of Animal Nutrition and Physiology (NIANP), Bengaluru",
+    "url": "https://www.nianp.res.in",
+    "slug": "icar-national-institute-of-animal-nutrition-and-physiology-nianp-bengaluru"
+  },
+  {
+    "title": "ICAR-National Institute of Biotic Stress Management (NIBSM), Raipur",
+    "url": "https://www.nibsm.org.in",
+    "slug": "icar-national-institute-of-biotic-stress-management-nibsm-raipur"
+  },
+  {
+    "title": "ICAR-National Institute of Natural Fibre Engineering and Technology (NINFET), Kolkata",
+    "url": "https://www.nirjaft.res.in",
+    "slug": "icar-national-institute-of-natural-fibre-engineering-and-technology-ninfet-kolkata"
+  },
+  {
+    "title": "ICAR-National Institute of Research on Jute and Allied Fibre Technology (NIRJAFT), Kolkata",
+    "url": "https://www.crijaf.org.in",
+    "slug": "icar-national-institute-of-research-on-jute-and-allied-fibre-technology-nirjaft-kolkata"
+  },
+  {
+    "title": "ICAR-National Research Centre for Grapes (NRCG), Pune",
+    "url": "https://www.nrcgrapes.nic.in",
+    "slug": "icar-national-research-centre-for-grapes-nrcg-pune"
+  },
+  {
+    "title": "ICAR-National Research Centre on Equines (NRCE), Hisar",
+    "url": "https://www.nrce.gov.in",
+    "slug": "icar-national-research-centre-on-equines-nrce-hisar"
+  },
+  {
+    "title": "ICAR-National Research Centre on Meat (NRCM), Hyderabad",
+    "url": "https://www.nrcmeat.org.in",
+    "slug": "icar-national-research-centre-on-meat-nrcm-hyderabad"
+  },
+  {
+    "title": "ICAR-National Research Centre on Orchids (NRCO), Pakyong",
+    "url": "https://www.nrcorchids.nic.in",
+    "slug": "icar-national-research-centre-on-orchids-nrco-pakyong"
+  },
+  {
+    "title": "ICAR-National Research Centre on Pomegranate (NRCP), Solapur",
+    "url": "https://www.nrcpomegranate.org",
+    "slug": "icar-national-research-centre-on-pomegranate-nrcp-solapur"
+  },
+  {
+    "title": "ICAR-National Research Centre on Seed Spices (NRCSS), Ajmer",
+    "url": "https://www.nrcss.res.in",
+    "slug": "icar-national-research-centre-on-seed-spices-nrcss-ajmer"
+  },
+  {
+    "title": "ICAR-National Research Centre on Yak (NRCY), Dirang",
+    "url": "https://www.nrcy.org.in",
+    "slug": "icar-national-research-centre-on-yak-nrcy-dirang"
+  },
+  {
+    "title": "IFCI Limited",
+    "url": "https://www.ifciltd.com",
+    "slug": "ifci-limited"
+  },
+  {
+    "title": "India Infrastructure Finance Company Limited (IIFCL)",
+    "url": "https://www.iifcl.org",
+    "slug": "india-infrastructure-finance-company-limited-iifcl"
+  },
+  {
     "title": "India Meteorological Department (IMD)",
     "url": "https://mausam.imd.gov.in",
     "slug": "india-meteorological-department-imd"
+  },
+  {
+    "title": "India Tourism Development Corporation Limited (ITDC)",
+    "url": "https://www.itdc.co.in",
+    "slug": "india-tourism-development-corporation-limited-itdc"
+  },
+  {
+    "title": "India Trade Promotion Organisation (ITPO)",
+    "url": "https://www.indiatradefair.com",
+    "slug": "india-trade-promotion-organisation-itpo"
   },
   {
     "title": "Indian Bureau of Mines",
@@ -960,9 +1910,59 @@
     "slug": "indian-forest-service-ifs"
   },
   {
+    "title": "Indian Medicines Pharmaceutical Corporation Limited (IMPCL)",
+    "url": "https://www.impcl.co.in",
+    "slug": "indian-medicines-pharmaceutical-corporation-limited-impcl"
+  },
+  {
+    "title": "Indian Oil Corporation Limited (IOCL)",
+    "url": "https://www.iocl.com",
+    "slug": "indian-oil-corporation-limited-iocl"
+  },
+  {
+    "title": "Indian Pharmacopoeia Commission (IPC)",
+    "url": "https://ipc.gov.in",
+    "slug": "indian-pharmacopoeia-commission-ipc"
+  },
+  {
+    "title": "Indian Railway Catering and Tourism Corporation Limited (IRCTC)",
+    "url": "https://www.irctc.co.in",
+    "slug": "indian-railway-catering-and-tourism-corporation-limited-irctc"
+  },
+  {
+    "title": "Indian Railway Finance Corporation Limited (IRFC)",
+    "url": "https://www.irfc.nic.in",
+    "slug": "indian-railway-finance-corporation-limited-irfc"
+  },
+  {
+    "title": "Indian Rare Earths Limited (IREL)",
+    "url": "https://www.irel.co.in",
+    "slug": "indian-rare-earths-limited-irel"
+  },
+  {
+    "title": "Indian Renewable Energy Development Agency Limited (IREDA)",
+    "url": "https://www.ireda.in",
+    "slug": "indian-renewable-energy-development-agency-limited-ireda"
+  },
+  {
     "title": "Indian Space Research Organisation (ISRO)",
     "url": "https://www.isro.gov.in",
     "slug": "indian-space-research-organisation-isro"
+  },
+  {
+    "title": "Indian Strategic Petroleum Reserves Limited (ISPRL)",
+    "url": "https://www.isprlindia.com",
+    "slug": "indian-strategic-petroleum-reserves-limited-isprl"
+  },
+  {
+    "title": "Indian Telephone Industries Limited (ITI)",
+    "url": "https://www.itiltd.in",
+    "slug": "indian-telephone-industries-limited-iti"
+  },
+  {
+    "title": "Indian Vaccine Corporation Limited (IVCOL)",
+    "url": "https://www.ivcol.com",
+    "slug": "indian-vaccine-corporation-limited-ivcol"
   },
   {
     "title": "Indira Gandhi National Forest Academy (IGNFA)",
@@ -973,6 +1973,11 @@
     "title": "Indo Tibetan Border Police (ITBP)",
     "url": "https://itbpolice.nic.in",
     "slug": "indo-tibetan-border-police-itbp"
+  },
+  {
+    "title": "Indraprastha Gas Limited (IGL)",
+    "url": "https://www.iglonline.net",
+    "slug": "indraprastha-gas-limited-igl"
   },
   {
     "title": "Information and Broadcasting",
@@ -990,9 +1995,44 @@
     "slug": "institute-of-forest-genetics-and-tree-breeding-ifgtb"
   },
   {
+    "title": "Instrumentation Limited (IL)",
+    "url": "https://www.ilkota.gov.in",
+    "slug": "instrumentation-limited-il"
+  },
+  {
+    "title": "IRCON International Limited",
+    "url": "https://www.ircon.org",
+    "slug": "ircon-international-limited"
+  },
+  {
     "title": "Jal Shakti",
     "url": "http://jalshakti-dowr.gov.in",
     "slug": "jal-shakti"
+  },
+  {
+    "title": "Joint Electricity Regulatory Commission (JERC)",
+    "url": "https://jercuts.gov.in",
+    "slug": "joint-electricity-regulatory-commission-jerc"
+  },
+  {
+    "title": "Joint Plant Committee (JPC)",
+    "url": "https://jpcindiansteel.nic.in",
+    "slug": "joint-plant-committee-jpc"
+  },
+  {
+    "title": "Jute Corporation of India Limited (JCI)",
+    "url": "https://www.jci.gov.in",
+    "slug": "jute-corporation-of-india-limited-jci"
+  },
+  {
+    "title": "Kamarajar Port Limited",
+    "url": "https://www.ennoreport.gov.in",
+    "slug": "kamarajar-port-limited"
+  },
+  {
+    "title": "Karnataka Antibiotics and Pharmaceuticals Limited (KAPL)",
+    "url": "https://www.kaplindia.com",
+    "slug": "karnataka-antibiotics-and-pharmaceuticals-limited-kapl"
   },
   {
     "title": "Kendriya Sainik Board Secretariat, New Delhi",
@@ -1005,9 +2045,34 @@
     "slug": "kendriya-vidyalaya-ctps-chandrapura-bokaro-jharkhand"
   },
   {
+    "title": "Khadi and Village Industries Commission (KVIC)",
+    "url": "https://www.kvic.gov.in",
+    "slug": "khadi-and-village-industries-commission-kvic"
+  },
+  {
+    "title": "Khadi and Village Indutries Commission (KVIC)",
+    "url": "https://www.kvic.gov.in",
+    "slug": "khadi-and-village-indutries-commission-kvic"
+  },
+  {
+    "title": "Kolkata Metro Rail Corporation Limited (KMRCL)",
+    "url": "https://www.kmrc.in",
+    "slug": "kolkata-metro-rail-corporation-limited-kmrcl"
+  },
+  {
+    "title": "Konkan Railway Corporation Limited (KRCL)",
+    "url": "https://www.konkanrailway.com",
+    "slug": "konkan-railway-corporation-limited-krcl"
+  },
+  {
     "title": "KRISHI VISTAR-Directorate of Extension",
     "url": "https://krishivistar.gov.in",
     "slug": "krishi-vistar-directorate-of-extension"
+  },
+  {
+    "title": "Kudremukh Iron Ore Company Limited (KIOCL)",
+    "url": "https://www.kioclltd.in",
+    "slug": "kudremukh-iron-ore-company-limited-kiocl"
   },
   {
     "title": "Labour and Employment",
@@ -1020,6 +2085,11 @@
     "slug": "labour-bureau"
   },
   {
+    "title": "Lakshadweep Development Corporation Limited (LDCL)",
+    "url": "https://www.ldcl.gov.in",
+    "slug": "lakshadweep-development-corporation-limited-ldcl"
+  },
+  {
     "title": "Land and Development Office",
     "url": "https://ldo.gov.in",
     "slug": "land-and-development-office"
@@ -1028,6 +2098,11 @@
     "title": "Law and Justice",
     "url": "https://lawmin.gov.in",
     "slug": "law-and-justice"
+  },
+  {
+    "title": "Law Commission of India",
+    "url": "https://lawcommissionofindia.nic.in",
+    "slug": "law-commission-of-india"
   },
   {
     "title": "Legislative Department",
@@ -1040,9 +2115,34 @@
     "slug": "mahalanobis-national-crop-forecast-centre-ncfc-new-delhi"
   },
   {
+    "title": "Mahanadi Coalfields Limited (MCL)",
+    "url": "https://www.mahanadicoal.in",
+    "slug": "mahanadi-coalfields-limited-mcl"
+  },
+  {
+    "title": "Mahanagar Telephone Nigam Limited (MTNL)",
+    "url": "https://mtnl.net.in",
+    "slug": "mahanagar-telephone-nigam-limited-mtnl"
+  },
+  {
     "title": "Make in India Defence Production, New Delhi",
     "url": "https://makeinindiadefence.gov.in",
     "slug": "make-in-india-defence-production-new-delhi"
+  },
+  {
+    "title": "Mazagon Dock Shipbuilders Limited",
+    "url": "https://mazagondock.in",
+    "slug": "mazagon-dock-shipbuilders-limited"
+  },
+  {
+    "title": "MECON Limited",
+    "url": "https://www.meconlimited.co.in",
+    "slug": "mecon-limited"
+  },
+  {
+    "title": "Medical Counselling Committee (MCC)",
+    "url": "https://mcc.nic.in",
+    "slug": "medical-counselling-committee-mcc"
   },
   {
     "title": "Medical Stores Organisation, Ministry of Health and Family Welfare",
@@ -1050,9 +2150,19 @@
     "slug": "medical-stores-organisation-ministry-of-health-and-family-welfare"
   },
   {
+    "title": "Metallurgical & Engineering Consultants (India) Limited (MECON)",
+    "url": "https://www.meconlimited.co.in",
+    "slug": "metallurgical-engineering-consultants-india-limited-mecon"
+  },
+  {
     "title": "Micro, Small and Medium Enterprises",
     "url": "https://msme.gov.in",
     "slug": "micro-small-and-medium-enterprises"
+  },
+  {
+    "title": "Mineral Exploration Corporation Limited (MECL)",
+    "url": "https://www.mecl.co.in",
+    "slug": "mineral-exploration-corporation-limited-mecl"
   },
   {
     "title": "Mines",
@@ -1065,6 +2175,41 @@
     "slug": "minority-affairs"
   },
   {
+    "title": "Mission Amrit Sarovar",
+    "url": "https://amritsarovar.gov.in",
+    "slug": "mission-amrit-sarovar"
+  },
+  {
+    "title": "Mission for Integrated Development of Horticulture (MIDH)",
+    "url": "https://midh.gov.in",
+    "slug": "mission-for-integrated-development-of-horticulture-midh"
+  },
+  {
+    "title": "Mission on Nano Science and Technology",
+    "url": "https://dst.gov.in/scientific-programmes/mission-nano-science-and-technology-nano-mission",
+    "slug": "mission-on-nano-science-and-technology"
+  },
+  {
+    "title": "MMTC Limited",
+    "url": "https://mmtclimited.com",
+    "slug": "mmtc-limited"
+  },
+  {
+    "title": "MOIL Limited",
+    "url": "https://www.moil.nic.in",
+    "slug": "moil-limited"
+  },
+  {
+    "title": "MSTC Limited",
+    "url": "https://www.mstcindia.co.in",
+    "slug": "mstc-limited"
+  },
+  {
+    "title": "Mumbai Railway Vikas Corporation Limited (MRVC)",
+    "url": "https://www.mrvc.indianrailways.gov.in",
+    "slug": "mumbai-railway-vikas-corporation-limited-mrvc"
+  },
+  {
     "title": "National Academy of Defence Production (NADP), Nagpur",
     "url": "https://ddpdoo.gov.in/units/NADP",
     "slug": "national-academy-of-defence-production-nadp-nagpur"
@@ -1073,6 +2218,11 @@
     "title": "National AIDS Control Organisation (NACO)",
     "url": "https://www.naco.gov.in",
     "slug": "national-aids-control-organisation-naco"
+  },
+  {
+    "title": "National Aluminium Company Limited (NALCO)",
+    "url": "https://www.nalcoindia.com",
+    "slug": "national-aluminium-company-limited-nalco"
   },
   {
     "title": "National Anti-profiteering Authority (NAA)",
@@ -1088,6 +2238,21 @@
     "title": "National Awards Intra Portal",
     "url": "https://intraawards.gov.in",
     "slug": "national-awards-intra-portal"
+  },
+  {
+    "title": "National Backward Classes Finance and Development Corporation (NBCFDC)",
+    "url": "https://www.nbcfdc.gov.in",
+    "slug": "national-backward-classes-finance-and-development-corporation-nbcfdc"
+  },
+  {
+    "title": "National Biodiversity Authority (NBA)",
+    "url": "https://www.nbaindia.org",
+    "slug": "national-biodiversity-authority-nba"
+  },
+  {
+    "title": "National Buildings Construction Corporation Limited (NBCC)",
+    "url": "https://www.nbccindia.com",
+    "slug": "national-buildings-construction-corporation-limited-nbcc"
   },
   {
     "title": "National Centre for Coastal Research",
@@ -1110,9 +2275,59 @@
     "slug": "national-co-operative-development-corporation-ncdc"
   },
   {
+    "title": "National Commission for Backward Classes (NCBC)",
+    "url": "https://ncbc.nic.in",
+    "slug": "national-commission-for-backward-classes-ncbc"
+  },
+  {
+    "title": "National Commission for Homoeopathy",
+    "url": "https://nch.org.in",
+    "slug": "national-commission-for-homoeopathy"
+  },
+  {
+    "title": "National Commission for Indian System of Medicine (NCISM), New Delhi",
+    "url": "https://ncismindia.org",
+    "slug": "national-commission-for-indian-system-of-medicine-ncism-new-delhi"
+  },
+  {
+    "title": "National Commission for Minorities (NCM)",
+    "url": "https://ncm.nic.in",
+    "slug": "national-commission-for-minorities-ncm"
+  },
+  {
+    "title": "National Commission for Protection of Child Rights (NCPCR)",
+    "url": "https://ncpcr.gov.in",
+    "slug": "national-commission-for-protection-of-child-rights-ncpcr"
+  },
+  {
+    "title": "National Commission for Scheduled Castes (NCSC)",
+    "url": "https://ncsc.nic.in",
+    "slug": "national-commission-for-scheduled-castes-ncsc"
+  },
+  {
+    "title": "National Commission for Scheduled Tribes (NCST)",
+    "url": "https://ncst.nic.in",
+    "slug": "national-commission-for-scheduled-tribes-ncst"
+  },
+  {
+    "title": "National Consumer Disputes Redressal Commission (NCDRC)",
+    "url": "https://ncdrc.nic.in",
+    "slug": "national-consumer-disputes-redressal-commission-ncdrc"
+  },
+  {
     "title": "National Disaster Response Force (NDRF)",
     "url": "https://www.ndrf.gov.in",
     "slug": "national-disaster-response-force-ndrf"
+  },
+  {
+    "title": "National Ethics Committee Registry for Biomedical and Health Research (NECRBHR)",
+    "url": "https://naitik.gov.in",
+    "slug": "national-ethics-committee-registry-for-biomedical-and-health-research-necrbhr"
+  },
+  {
+    "title": "National Fertilizers Limited (NFL)",
+    "url": "https://www.nationalfertilizers.com",
+    "slug": "national-fertilizers-limited-nfl"
   },
   {
     "title": "National Green Tribunal (NGT), New Delhi",
@@ -1120,9 +2335,29 @@
     "slug": "national-green-tribunal-ngt-new-delhi"
   },
   {
+    "title": "National Handicapped Finance and Development Corporation (NHFDC)",
+    "url": "https://www.nhfdc.nic.in",
+    "slug": "national-handicapped-finance-and-development-corporation-nhfdc"
+  },
+  {
+    "title": "National Handloom Development Corporation Limited (NHDC)",
+    "url": "https://www.nhdc.org.in",
+    "slug": "national-handloom-development-corporation-limited-nhdc"
+  },
+  {
     "title": "National Health Authority",
     "url": "https://www.pmjay.gov.in",
     "slug": "national-health-authority"
+  },
+  {
+    "title": "National Highways and Infrastructure Development Corporation Limited (NHIDCL)",
+    "url": "https://www.nhidcl.com",
+    "slug": "national-highways-and-infrastructure-development-corporation-limited-nhidcl"
+  },
+  {
+    "title": "National Highways Authority of India (NHAI)",
+    "url": "https://www.nhai.gov.in",
+    "slug": "national-highways-authority-of-india-nhai"
   },
   {
     "title": "National Human Rights Commission (NHRC), India",
@@ -1130,9 +2365,39 @@
     "slug": "national-human-rights-commission"
   },
   {
+    "title": "National Hydroelectric Power Corporation Limited (NHPC)",
+    "url": "https://www.nhpcindia.com",
+    "slug": "national-hydroelectric-power-corporation-limited-nhpc"
+  },
+  {
     "title": "National Informatics Centre (NIC)",
     "url": "https://www.nic.in",
     "slug": "national-informatics-centre-nic"
+  },
+  {
+    "title": "​National Institute for Smart Government (NISG)",
+    "url": "https://www.nisg.org",
+    "slug": "national-institute-for-smart-government-nisg"
+  },
+  {
+    "title": "National Institute of Electronics and Information Technology (NIELIT)",
+    "url": "https://www.nielit.gov.in",
+    "slug": "national-institute-of-electronics-and-information-technology-nielit"
+  },
+  {
+    "title": "National Institute of Fashion Technology (NIFT)",
+    "url": "https://www.nift.ac.in",
+    "slug": "national-institute-of-fashion-technology-nift"
+  },
+  {
+    "title": "National Institute of Pharmaceutical Education and Research (NIPER)",
+    "url": "https://www.niper.gov.in",
+    "slug": "national-institute-of-pharmaceutical-education-and-research-niper"
+  },
+  {
+    "title": "National Insurance Company Limited",
+    "url": "https://www.nationalinsuranceindia.nic.co.in",
+    "slug": "national-insurance-company-limited"
   },
   {
     "title": "National Investigation Agency (NIA)",
@@ -1140,9 +2405,24 @@
     "slug": "national-investigation-agency-nia"
   },
   {
+    "title": "National Jute Manufactures Corporation Limited (NJMC)",
+    "url": "https://www.njmc.gov.in",
+    "slug": "national-jute-manufactures-corporation-limited-njmc"
+  },
+  {
     "title": "National Library",
     "url": "https://nli.gov.in",
     "slug": "national-library"
+  },
+  {
+    "title": "National Medical Commission",
+    "url": "https://www.nmc.org.in",
+    "slug": "national-medical-commission"
+  },
+  {
+    "title": "National Minorities Development and Finance Corporation (NMDFC)",
+    "url": "https://www.nmdfc.org",
+    "slug": "national-minorities-development-and-finance-corporation-nmdfc"
   },
   {
     "title": "National Museum, New Delhi",
@@ -1155,9 +2435,24 @@
     "slug": "national-pharmaceutical-pricing-authority-nppa"
   },
   {
+    "title": "National Projects Construction Corporation Limited (NPCC)",
+    "url": "https://www.npcc.gov.in",
+    "slug": "national-projects-construction-corporation-limited-npcc"
+  },
+  {
+    "title": "National Research Development Corporation (NRDC)",
+    "url": "https://www.nrdcindia.com",
+    "slug": "national-research-development-corporation-nrdc"
+  },
+  {
     "title": "National River Conservation Directorate (NRCD)",
     "url": "https://nrcd.nic.in",
     "slug": "national-river-conservation-directorate-nrcd"
+  },
+  {
+    "title": "National Safai Karamcharis Finance and Development Corporation (NSKFDC)",
+    "url": "https://www.nskfdc.nic.in",
+    "slug": "national-safai-karamcharis-finance-and-development-corporation-nskfdc"
   },
   {
     "title": "National Savings Institute (NSI)",
@@ -1165,9 +2460,29 @@
     "slug": "national-savings-institute-nsi"
   },
   {
+    "title": "National Scheduled Castes Finance and Development Corporation (NSFDC)",
+    "url": "https://www.nsfdc.nic.in",
+    "slug": "national-scheduled-castes-finance-and-development-corporation-nsfdc"
+  },
+  {
+    "title": "National Scheduled Tribes Finance and Development Corporation (NSTFDC)",
+    "url": "https://www.nstfdc.nic.in",
+    "slug": "national-scheduled-tribes-finance-and-development-corporation-nstfdc"
+  },
+  {
     "title": "National Security Guard (NSG)",
     "url": "https://nsg.gov.in",
     "slug": "national-security-guard-nsg"
+  },
+  {
+    "title": "National Seeds Corporation Limited (NSC)",
+    "url": "https://www.indiaseeds.com",
+    "slug": "national-seeds-corporation-limited-nsc"
+  },
+  {
+    "title": "National Small Industries Corporation Limited (NSIC)",
+    "url": "https://www.nsic.co.in",
+    "slug": "national-small-industries-corporation-limited-nsic"
   },
   {
     "title": "National Test House",
@@ -1175,9 +2490,24 @@
     "slug": "national-test-house"
   },
   {
+    "title": "National Textile Corporation Limited (NTC)",
+    "url": "https://www.ntcltd.org",
+    "slug": "national-textile-corporation-limited-ntc"
+  },
+  {
+    "title": "National Thermal Power Corporation Limited (NTPC)",
+    "url": "https://www.ntpc.co.in",
+    "slug": "national-thermal-power-corporation-limited-ntpc"
+  },
+  {
     "title": "National Vector Borne Disease Control Programme (NVBDCP), DELHI",
     "url": "https://ncvbdc.mohfw.gov.in",
     "slug": "national-vector-borne-disease-control-programme-nvbdcp-delhi"
+  },
+  {
+    "title": "National Water Academy, Pune",
+    "url": "https://nwa.mah.nic.in",
+    "slug": "national-water-academy-pune"
   },
   {
     "title": "National Zoological Park, Delhi",
@@ -1185,14 +2515,34 @@
     "slug": "national-zoological-park-delhi"
   },
   {
+    "title": "NBCC (India) Limited",
+    "url": "https://www.nbccindia.com",
+    "slug": "nbcc-india-limited"
+  },
+  {
+    "title": "Neelachal Ispat Nigam Limited (NINL)",
+    "url": "https://www.ninl.in",
+    "slug": "neelachal-ispat-nigam-limited-ninl"
+  },
+  {
     "title": "New and Renewable Energy",
     "url": "https://mnre.gov.in",
     "slug": "new-and-renewable-energy"
   },
   {
+    "title": "NHPC Limited",
+    "url": "https://www.nhpcindia.com",
+    "slug": "nhpc-limited"
+  },
+  {
     "title": "NITI Aayog - National Institution for Transforming India",
     "url": "https://niti.gov.in/",
     "slug": "niti-aayog"
+  },
+  {
+    "title": "North Eastern Electric Power Corporation Limited (NEEPCO)",
+    "url": "https://www.neepco.co.in",
+    "slug": "north-eastern-electric-power-corporation-limited-neepco"
   },
   {
     "title": "North Eastern Farm Machinery Training and Testing Institute, Chariali",
@@ -1205,9 +2555,39 @@
     "slug": "north-eastern-police-academy-nepa"
   },
   {
+    "title": "North Eastern Regional Power Committee",
+    "url": "https://nerpc.gov.in",
+    "slug": "north-eastern-regional-power-committee"
+  },
+  {
+    "title": "Northern Coalfields Limited (NCL)",
+    "url": "https://www.nclcil.in",
+    "slug": "northern-coalfields-limited-ncl"
+  },
+  {
+    "title": "NTPC Vidyut Vyapar Nigam Limited (NVVN)",
+    "url": "https://www.nvvn.co.in",
+    "slug": "ntpc-vidyut-vyapar-nigam-limited-nvvn"
+  },
+  {
+    "title": "Nuclear Power Corporation of India Limited (NPCIL)",
+    "url": "https://www.npcil.nic.in",
+    "slug": "nuclear-power-corporation-of-india-limited-npcil"
+  },
+  {
     "title": "Office of Chief Controller of Accounts",
     "url": "https://ccaind.nic.in",
     "slug": "office-of-chief-controller-of-accounts"
+  },
+  {
+    "title": "Office of Development Commissioner for Handicrafts",
+    "url": "https://handicrafts.nic.in",
+    "slug": "office-of-development-commissioner-for-handicrafts"
+  },
+  {
+    "title": "Office of Development Commissioner for Handlooms",
+    "url": "https://handlooms.gov.in",
+    "slug": "office-of-development-commissioner-for-handlooms"
   },
   {
     "title": "Office of Offical Liquidator",
@@ -1220,14 +2600,59 @@
     "slug": "office-of-registrar-of-newspapers-for-india-rni"
   },
   {
+    "title": "Office of the Chief Commissioner, Customs, Central Excise and Service Tax, Bhopal",
+    "url": "https://ccobz.gov.in",
+    "slug": "office-of-the-chief-commissioner-customs-central-excise-and-service-tax-bhopal"
+  },
+  {
+    "title": "Office of The Commissioner (Appeals), CGST, Jaipur",
+    "url": "https://cgstappealsjaipur.gov.in",
+    "slug": "office-of-the-commissioner-appeals-cgst-jaipur"
+  },
+  {
     "title": "Office of the Economic Adviser",
     "url": "https://eaindustry.nic.in",
     "slug": "office-of-the-economic-adviser"
   },
   {
+    "title": "Office of the Jute Commissioner",
+    "url": "https://jutecomm.gov.in",
+    "slug": "office-of-the-jute-commissioner"
+  },
+  {
+    "title": "Office of the Principal Commissioner of Customs, Mundra Port, Kachchh",
+    "url": "https://mundracustoms.gov.in",
+    "slug": "office-of-the-principal-commissioner-of-customs-mundra-port-kachchh"
+  },
+  {
     "title": "Office of the Principal Scientific Adviser",
     "url": "https://www.psa.gov.in/",
     "slug": "office-of-principal-scientific-adviser"
+  },
+  {
+    "title": "Office of the Registrar General and Census Commissioner",
+    "url": "https://censusindia.gov.in",
+    "slug": "office-of-the-registrar-general-and-census-commissioner"
+  },
+  {
+    "title": "Office of the Salt Commissioner",
+    "url": "https://saltcomindia.gov.in",
+    "slug": "office-of-the-salt-commissioner"
+  },
+  {
+    "title": "Oil and Natural Gas Corporation Limited (ONGC)",
+    "url": "https://www.ongcindia.com",
+    "slug": "oil-and-natural-gas-corporation-limited-ongc"
+  },
+  {
+    "title": "Oil India Limited (OIL)",
+    "url": "https://www.oil-india.com",
+    "slug": "oil-india-limited-oil"
+  },
+  {
+    "title": "ONGC Videsh Limited (OVL)",
+    "url": "https://www.ongcvidesh.com",
+    "slug": "ongc-videsh-limited-ovl"
   },
   {
     "title": "Panchayati Raj",
@@ -1238,6 +2663,16 @@
     "title": "Parliamentary Affairs",
     "url": "https://mpa.gov.in",
     "slug": "parliamentary-affairs"
+  },
+  {
+    "title": "Pawan Hans Limited",
+    "url": "https://www.pawanhans.co.in",
+    "slug": "pawan-hans-limited"
+  },
+  {
+    "title": "PEC Limited",
+    "url": "https://www.peclimited.com",
+    "slug": "pec-limited"
   },
   {
     "title": "Personnel, Public Grievances and Pensions",
@@ -1255,6 +2690,11 @@
     "slug": "petroleum-and-natural-gas"
   },
   {
+    "title": "Pharmacopoeia Commission for Indian Medicine and Homoeopathy (PCIMH)",
+    "url": "https://pcimh.gov.in",
+    "slug": "pharmacopoeia-commission-for-indian-medicine-and-homoeopathy-pcimh"
+  },
+  {
     "title": "Photo Division of PIB",
     "url": "https://photodivision.gov.in",
     "slug": "photo-division-of-pib"
@@ -1263,6 +2703,21 @@
     "title": "Power",
     "url": "https://powermin.gov.in",
     "slug": "power"
+  },
+  {
+    "title": "Power Finance Corporation Limited (PFC)",
+    "url": "https://www.pfcindia.com",
+    "slug": "power-finance-corporation-limited-pfc"
+  },
+  {
+    "title": "Power Grid Corporation of India Limited (POWERGRID)",
+    "url": "https://www.powergrid.in",
+    "slug": "power-grid-corporation-of-india-limited-powergrid"
+  },
+  {
+    "title": "Power System Operation Corporation Limited (POSOCO)",
+    "url": "https://posoco.in",
+    "slug": "power-system-operation-corporation-limited-posoco"
   },
   {
     "title": "President of India",
@@ -1280,9 +2735,19 @@
     "slug": "prime-ministers-office"
   },
   {
+    "title": "Principal Chief Commissioner of Central Tax, Bengaluru Zone Karnataka",
+    "url": "https://gstkarnataka.gov.in",
+    "slug": "principal-chief-commissioner-of-central-tax-bengaluru-zone-karnataka"
+  },
+  {
     "title": "Principal Chief Controller of Accounts, Central Board of Excise and Customs (CCA - CBEC)",
     "url": "https://www.arpit.gov.in",
     "slug": "principal-chief-controller-of-accounts-central-board-of-excise-and-customs-cca-cbec"
+  },
+  {
+    "title": "Principal Commissioner Custom Central Excise and Central GST, Ujjain",
+    "url": "https://cgstujjain.gov.in",
+    "slug": "principal-commissioner-custom-central-excise-and-central-gst-ujjain"
   },
   {
     "title": "Principal Controller of Defence Accounts (Army), Pune",
@@ -1305,14 +2770,59 @@
     "slug": "principal-controller-of-defence-accounts-research-and-development-hyderabad"
   },
   {
+    "title": "Projects and Development India Limited (PDIL)",
+    "url": "https://www.pdilin.com",
+    "slug": "projects-and-development-india-limited-pdil"
+  },
+  {
     "title": "Publications Division",
     "url": "https://www.publicationsdivision.nic.in",
     "slug": "publications-division"
   },
   {
+    "title": "Rail India Technical and Economic Service Limited (RITES)",
+    "url": "https://www.rites.com",
+    "slug": "rail-india-technical-and-economic-service-limited-rites"
+  },
+  {
+    "title": "Rail Land Development Authority, New Delhi",
+    "url": "https://rlda.indianrailways.gov.in",
+    "slug": "rail-land-development-authority-new-delhi"
+  },
+  {
+    "title": "Rail Vikas Nigam Limited (RVNL)",
+    "url": "https://www.rvnl.org",
+    "slug": "rail-vikas-nigam-limited-rvnl"
+  },
+  {
+    "title": "Railtel Corporation of India Limited",
+    "url": "https://www.railtelindia.com",
+    "slug": "railtel-corporation-of-india-limited"
+  },
+  {
     "title": "Railways",
     "url": "https://indianrailways.gov.in",
     "slug": "railways"
+  },
+  {
+    "title": "Ranchi(II) Bokaro Commissionerate, Central Excise And Service Tax",
+    "url": "https://www.cgstranchi.gov.in",
+    "slug": "ranchi-ii-bokaro-commissionerate-central-excise-and-service-tax"
+  },
+  {
+    "title": "Rashtriya Chemicals and Fertilizers Limited (RCF)",
+    "url": "https://www.rcfltd.com",
+    "slug": "rashtriya-chemicals-and-fertilizers-limited-rcf"
+  },
+  {
+    "title": "Rashtriya Ispat Nigam Limited (RINL)",
+    "url": "https://www.vizagsteel.com",
+    "slug": "rashtriya-ispat-nigam-limited-rinl"
+  },
+  {
+    "title": "REC Limited",
+    "url": "https://www.recindia.nic.in",
+    "slug": "rec-limited"
   },
   {
     "title": "Regional Directorate of Apprenticeship Training, Mumbai (Western Region)",
@@ -1335,9 +2845,19 @@
     "slug": "research-in-environment-re-division-ministry-of-environment-forest-and-climate-change"
   },
   {
+    "title": "Richardson and Cruddas (1972) Limited",
+    "url": "https://www.rcf.gov.in",
+    "slug": "richardson-and-cruddas-1972-limited"
+  },
+  {
     "title": "Rifle Factory Ishapore, West Bengal",
     "url": "https://ddpdoo.gov.in/units/RFI",
     "slug": "rifle-factory-ishapore-west-bengal"
+  },
+  {
+    "title": "RITES Limited",
+    "url": "https://www.rites.com",
+    "slug": "rites-limited"
   },
   {
     "title": "Road Transport and Highways",
@@ -1350,6 +2870,16 @@
     "slug": "rural-development"
   },
   {
+    "title": "Rural Electrification Corporation Limited (REC)",
+    "url": "https://www.recindia.nic.in",
+    "slug": "rural-electrification-corporation-limited-rec"
+  },
+  {
+    "title": "SAIL Refractory Company Limited (SRCL)",
+    "url": "https://www.sail-srcl.co.in",
+    "slug": "sail-refractory-company-limited-srcl"
+  },
+  {
     "title": "Sashastra Seema Bal (SSB)",
     "url": "https://www.ssb.gov.in",
     "slug": "sashastra-seema-bal-ssb"
@@ -1360,14 +2890,44 @@
     "slug": "science-and-technology"
   },
   {
+    "title": "Scooters India Limited",
+    "url": "https://www.scootersindia.com",
+    "slug": "scooters-india-limited"
+  },
+  {
+    "title": "Security Printing and Minting Corporation of India Limited (SPMCIL)",
+    "url": "https://www.spmcil.com",
+    "slug": "security-printing-and-minting-corporation-of-india-limited-spmcil"
+  },
+  {
+    "title": "Semiconductor Complex Limited (SCL)",
+    "url": "https://www.scl.gov.in",
+    "slug": "semiconductor-complex-limited-scl"
+  },
+  {
     "title": "Serious Fraud Investigation Office (SFIO)",
     "url": "https://www.sfio.nic.in",
     "slug": "serious-fraud-investigation-office-sfio"
   },
   {
+    "title": "Settlement Commission, Customs, Central Excise and Service Tax",
+    "url": "https://settlementcommission-cest.gov.in",
+    "slug": "settlement-commission-customs-central-excise-and-service-tax"
+  },
+  {
     "title": "Shipping",
     "url": "http://shipmin.gov.in",
     "slug": "shipping"
+  },
+  {
+    "title": "Sixteenth Finance Commission of India",
+    "url": "https://fincomindia.nic.in",
+    "slug": "sixteenth-finance-commission-of-india"
+  },
+  {
+    "title": "SJVN Limited",
+    "url": "https://www.sjvn.nic.in",
+    "slug": "sjvn-limited"
   },
   {
     "title": "Skill Development and Entrepreneurship",
@@ -1390,14 +2950,79 @@
     "slug": "soil-and-land-use-survey-of-india"
   },
   {
+    "title": "Solar Energy Corporation of India Limited (SECI)",
+    "url": "https://www.seci.co.in",
+    "slug": "solar-energy-corporation-of-india-limited-seci"
+  },
+  {
+    "title": "South Eastern Coalfields Limited (SECL)",
+    "url": "https://www.secl-cil.in",
+    "slug": "south-eastern-coalfields-limited-secl"
+  },
+  {
     "title": "Southern Region Farm Machinery Training and Testing Institute",
     "url": "https://srfmtti.dacnet.nic.in",
     "slug": "southern-region-farm-machinery-training-and-testing-institute"
   },
   {
+    "title": "Southern Regional Power Committee",
+    "url": "https://srpc.kar.nic.in",
+    "slug": "southern-regional-power-committee"
+  },
+  {
+    "title": "Staff Selection Commission (SSC), Central Region",
+    "url": "https://www.ssc-cr.org",
+    "slug": "staff-selection-commission-ssc-central-region"
+  },
+  {
+    "title": "Staff Selection Commission (SSC), Eastern Region (Kolkata)",
+    "url": "https://www.sscer.org",
+    "slug": "staff-selection-commission-ssc-eastern-region-kolkata"
+  },
+  {
+    "title": "Staff Selection Commission (SSC), Madhya Pradesh Sub Region",
+    "url": "https://www.sscmpr.org",
+    "slug": "staff-selection-commission-ssc-madhya-pradesh-sub-region"
+  },
+  {
+    "title": "Staff Selection Commission (SSC), North Western Region Chandigarh",
+    "url": "https://www.sscnwr.org",
+    "slug": "staff-selection-commission-ssc-north-western-region-chandigarh"
+  },
+  {
+    "title": "Staff Selection Commission (SSC), Southern Region",
+    "url": "https://www.sscsr.gov.in",
+    "slug": "staff-selection-commission-ssc-southern-region"
+  },
+  {
+    "title": "Staff Selection Commission (SSC), Western Region (Mumbai)",
+    "url": "https://www.sscwr.net",
+    "slug": "staff-selection-commission-ssc-western-region-mumbai"
+  },
+  {
+    "title": "Staff Selection Commission, Bangalore",
+    "url": "https://ssckkr.kar.nic.in",
+    "slug": "staff-selection-commission-bangalore"
+  },
+  {
+    "title": "Staff Selection Commission, Regional Office, (NER), Guwahati",
+    "url": "https://www.sscner.org.in",
+    "slug": "staff-selection-commission-regional-office-ner-guwahati"
+  },
+  {
     "title": "Standardisation Testing and Quality Certification (STQC)",
     "url": "https://www.stqc.gov.in",
     "slug": "standardisation-testing-and-quality-certification-stqc"
+  },
+  {
+    "title": "State Level Bankers' Committee - North Eastern States",
+    "url": "https://slbcne.nic.in",
+    "slug": "state-level-bankers-committee-north-eastern-states"
+  },
+  {
+    "title": "State Trading Corporation of India Limited (STC)",
+    "url": "https://www.stclimited.co.in",
+    "slug": "state-trading-corporation-of-india-limited-stc"
   },
   {
     "title": "Statistics and Programme Implementation",
@@ -1410,14 +3035,59 @@
     "slug": "steel"
   },
   {
+    "title": "Steel Authority of India Limited (SAIL)",
+    "url": "https://www.sail.co.in",
+    "slug": "steel-authority-of-india-limited-sail"
+  },
+  {
+    "title": "Telecommunications Consultants India Limited (TCIL)",
+    "url": "https://www.tcil.net.in",
+    "slug": "telecommunications-consultants-india-limited-tcil"
+  },
+  {
     "title": "Textiles",
     "url": "https://texmin.gov.in",
     "slug": "textiles"
   },
   {
+    "title": "THDC India Limited",
+    "url": "https://www.thdc.co.in",
+    "slug": "thdc-india-limited"
+  },
+  {
+    "title": "The Artificial Limbs Manufacturing Corporation of India",
+    "url": "https://www.alimco.in",
+    "slug": "the-artificial-limbs-manufacturing-corporation-of-india"
+  },
+  {
+    "title": "The Fertilisers and Chemicals Travancore Limited (FACT)",
+    "url": "https://www.fact.co.in",
+    "slug": "the-fertilisers-and-chemicals-travancore-limited-fact"
+  },
+  {
+    "title": "The New India Assurance Company Limited",
+    "url": "https://www.newindia.co.in",
+    "slug": "the-new-india-assurance-company-limited"
+  },
+  {
+    "title": "The Oriental Insurance Company Limited",
+    "url": "https://www.orientalinsurance.org.in",
+    "slug": "the-oriental-insurance-company-limited"
+  },
+  {
+    "title": "The Shipping Corporation of India Limited (SCI)",
+    "url": "https://www.shipindia.com",
+    "slug": "the-shipping-corporation-of-india-limited-sci"
+  },
+  {
     "title": "Tourism",
     "url": "https://tourism.gov.in",
     "slug": "tourism"
+  },
+  {
+    "title": "Town Official Language Implementation Committee",
+    "url": "https://narakas.rajbhasha.gov.in",
+    "slug": "town-official-language-implementation-committee"
   },
   {
     "title": "Tribal Affairs",
@@ -1430,9 +3100,29 @@
     "slug": "u-r-rao-satellite-centre-ursc-bengaluru"
   },
   {
+    "title": "UCO Bank",
+    "url": "https://www.ucobank.com",
+    "slug": "uco-bank"
+  },
+  {
+    "title": "Union Bank of India",
+    "url": "https://www.unionbankofindia.co.in/english/home.aspx",
+    "slug": "union-bank-of-india"
+  },
+  {
     "title": "Union Public Service Commission",
     "url": "https://upsconline.nic.in/",
     "slug": "union-public-service-commission"
+  },
+  {
+    "title": "Union Public Service Commission (UPSC)",
+    "url": "https://www.upsc.gov.in",
+    "slug": "union-public-service-commission-upsc"
+  },
+  {
+    "title": "United India Insurance Company Limited",
+    "url": "https://uiic.co.in",
+    "slug": "united-india-insurance-company-limited"
   },
   {
     "title": "Universal Service Obligation Fund (USOF)",
@@ -1445,14 +3135,54 @@
     "slug": "upper-yamuna-river-board"
   },
   {
+    "title": "Uranium Corporation of India Limited (UCIL)",
+    "url": "https://ucil.gov.in",
+    "slug": "uranium-corporation-of-india-limited-ucil"
+  },
+  {
+    "title": "UTI Infrastructure Technology And Services Limited (UTIITSL)",
+    "url": "https://www.utiitsl.com",
+    "slug": "uti-infrastructure-technology-and-services-limited-utiitsl"
+  },
+  {
+    "title": "Uttarakhand Environment Protection and Pollution Control Board (UEPPCB), Dehradun",
+    "url": "https://ueppcb.uk.gov.in",
+    "slug": "uttarakhand-environment-protection-and-pollution-control-board-ueppcb-dehradun"
+  },
+  {
     "title": "Vice President of India",
     "url": "https://vicepresidentofindia.nic.in/",
     "slug": "vice-president-of-india"
   },
   {
+    "title": "Warehousing Development and Regulatory Authority (WDRA)",
+    "url": "https://wdra.gov.in",
+    "slug": "warehousing-development-and-regulatory-authority-wdra"
+  },
+  {
+    "title": "Water and Power Consultancy Services (India) Limited (WAPCOS)",
+    "url": "https://www.wapcos.co.in",
+    "slug": "water-and-power-consultancy-services-india-limited-wapcos"
+  },
+  {
+    "title": "Western Regional Load Despatch Center",
+    "url": "https://www.wrldc.in",
+    "slug": "western-regional-load-despatch-center"
+  },
+  {
+    "title": "Western Regional Power Committee (WRPC)",
+    "url": "https://www.wrpc.gov.in",
+    "slug": "western-regional-power-committee-wrpc"
+  },
+  {
     "title": "Women and Child Development",
     "url": "https://wcd.nic.in",
     "slug": "women-and-child-development"
+  },
+  {
+    "title": "Yantra India Limited (YIL), Nagpur",
+    "url": "https://www.yantraindia.co.in",
+    "slug": "yantra-india-limited-yil-nagpur"
   },
   {
     "title": "Youth Affairs and Sports",

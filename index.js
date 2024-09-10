@@ -44,7 +44,6 @@ async function mergeJsonFiles(srcDir = 'src', distDir = 'dist', outputFileName =
       }
     }))).flat();
 
-    // Filter out entries without a valid URL
     mergedData = mergedData.filter(item => item.url && item.url.trim() !== '');
 
     mergedData = mergedData.filter((item, index, self) =>
