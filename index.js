@@ -54,7 +54,14 @@ async function mergeJsonFiles(srcDir = 'src', distDir = 'dist', outputFileName =
 
     await fs.mkdir(destPath, { recursive: true });
     await fs.writeFile(path.join(destPath, outputFileName), JSON.stringify(mergedData, null, 2));
-    console.log(`Merged JSON file created at: ${path.join(destPath, outputFileName)}`);
+
+    // Improved success message
+    console.log('\n' + '='.repeat(50));
+    console.log(`✅ Success! directory.json has been generated.`);
+    console.log(`📁 Location: ${path.join(destPath, outputFileName)}`);
+    console.log(`📊 Total items: ${mergedData.length}`);
+    console.log(`🕒 Generated at: ${new Date().toLocaleString()}`);
+    console.log('='.repeat(50) + '\n');
   } catch (error) {
     console.error('An error occurred:', error);
   }
